@@ -37,6 +37,7 @@ debug-profile.json
 config/iris.properties
 config/vmp.properties
 config/voicechat/voicechat-client.properties
+config/drippyloadingscreen/early_window_reference.properties
 servers.dat
 servers.dat_old
 
@@ -73,4 +74,3 @@ out/
 .DS_Store
 Thumbs.db
 desktop.ini
-
