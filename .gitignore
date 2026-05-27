@@ -18,6 +18,10 @@ texturepacks/
 config/litematica/
 config/spark/tmp/
 config/spark/tmp-client/
+XaeroWaypoints_BACKUP240807/
+xaero/
+dynamic-resource-pack-cache/
+moonlight-global-datapacks/
 
 # === User-specified hidden folders ===
 .*/
@@ -33,6 +37,8 @@ debug-profile.json
 config/iris.properties
 config/vmp.properties
 config/voicechat/voicechat-client.properties
+servers.dat
+servers.dat_old
 
 # === General modpack exclusions ===
 *.log

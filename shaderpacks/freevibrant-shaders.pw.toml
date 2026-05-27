@@ -1,0 +1,18 @@
+filename = 'FreeVibrant v0.0.1.zip'
+name = 'FreeVibrant Shaders'
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.20.1', '1.21.10' ]
+x-prismlauncher-release-type = 'alpha'
+x-prismlauncher-version-number = '0.0.1'
+
+[download]
+hash = '82fdeefb199422f722d85aee1f29bc163c85ba10bb3724bd3e5f8748f213c792304c80f4f1ad9b9813d58e074866315a45ef2a7fd3d1b3d13f473b5be353274f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/YmRYaclX/versions/lUHvhyOE/FreeVibrant v0.0.1.zip'
+
+[update.modrinth]
+mod-id = 'YmRYaclX'
+version = 'lUHvhyOE'
