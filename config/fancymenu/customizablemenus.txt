@@ -1,0 +1,8 @@
+type = customizablemenus
+
+de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+}
+
+com.getitemfromblock.create_tweaked_controllers.gui.ModConfigScreen {
+}
+

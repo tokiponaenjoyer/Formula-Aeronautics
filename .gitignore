@@ -25,6 +25,8 @@ config/spark/tmp-client/
 
 # === User-specified files ===
 realms_persistence.json
+command_history.txt
+ponders_watched.json
 options.txt
 usercache.json
 debug-profile.json
@@ -65,3 +67,4 @@ out/
 .DS_Store
 Thumbs.db
 desktop.ini
+
