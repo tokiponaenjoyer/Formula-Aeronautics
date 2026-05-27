@@ -1,0 +1,67 @@
+# === User-specified folders ===
+cache/
+coremods/
+crash-reports/
+data/
+defaultconfigs/
+downloads/
+ESM/
+fancymenu_data/
+local/
+logs/
+replay_recordings/
+saves/
+schematics/
+screenshots/
+server-resource-packs/
+texturepacks/
+config/litematica/
+config/spark/tmp/
+config/spark/tmp-client/
+
+# === User-specified hidden folders ===
+.*/
+*/.index/
+
+# === User-specified files ===
+realms_persistence.json
+options.txt
+usercache.json
+debug-profile.json
+config/iris.properties
+config/vmp.properties
+config/voicechat/voicechat-client.properties
+
+# === General modpack exclusions ===
+*.log
+*.lock
+*.bat
+*.exe
+*.dll
+*.so
+*.dylib
+*.class
+
+# === Launcher / instance files ===
+instance.cfg
+mmc-pack.json
+*.packignore
+
+# === IDE & editor files ===
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# === Temporary & backup files ===
+*.tmp
+*.bak
+*.swp
+*~
+*.orig
+
+# === OS metadata ===
+.DS_Store
+Thumbs.db
+desktop.ini
