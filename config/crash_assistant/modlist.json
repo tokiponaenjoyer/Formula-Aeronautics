@@ -141,14 +141,6 @@
     "curseForgeHash": 527531260,
     "modrinthHash": "6f5395f58139802edfde7cb9170279f92f291971"
   },
-  "chloride-NEOFORGE-mc1.21.1-v1.7.7.jar": {
-    "jarName": "chloride-NEOFORGE-mc1.21.1-v1.7.7.jar",
-    "modId": "chloride",
-    "name": "Chloride",
-    "version": "1.7.7",
-    "curseForgeHash": 847787108,
-    "modrinthHash": "8cf2a486486f57fc0f26562b77bfca540bcffedd"
-  },
   "Clumps-neoforge-1.21.1-19.0.0.1.jar": {
     "jarName": "Clumps-neoforge-1.21.1-19.0.0.1.jar",
     "modId": "clumps",
@@ -497,6 +489,22 @@
     "version": "1.21.1-1.0.1",
     "curseForgeHash": 3657762080,
     "modrinthHash": "8e181023d2b5f451f4ba6dc2f8e4a97e3afd2721"
+  },
+  "immersive_paintings-neoforge-1.21.1-0.7.7.jar": {
+    "jarName": "immersive_paintings-neoforge-1.21.1-0.7.7.jar",
+    "modId": "immersive_paintings",
+    "name": "Immersive Paintings",
+    "version": "0.7.7",
+    "curseForgeHash": 1855130270,
+    "modrinthHash": "b68f31c5f2c84a2f7d8b9f36b377e2a06ddf445e"
+  },
+  "immersivehotbar-1.1.1-neoforge-1.21-1.21.1.jar": {
+    "jarName": "immersivehotbar-1.1.1-neoforge-1.21-1.21.1.jar",
+    "modId": "immersivehotbar",
+    "name": "Immersive Hotbar",
+    "version": "1.1.1-neoforge-1.21.1-BETA",
+    "curseForgeHash": 2273521401,
+    "modrinthHash": "4f4a939b4dfc3664add2659e5981390c1ba199fc"
   },
   "interiors-1.21.1-neoforge-0.6.1.jar": {
     "jarName": "interiors-1.21.1-neoforge-0.6.1.jar",

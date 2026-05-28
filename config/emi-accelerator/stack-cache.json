@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "mod_hash": "e0b89faefdb1adecadb6455eb15984476a6288313c173a4c46dfad167af231c8",
+  "mod_hash": "6cba9e3bb119b888f0aa82ea3e3d192901ac1341c79de630743f7bcc1164810a",
   "stacks": [
     {
       "type": "item",
@@ -1785,6 +1785,10 @@
     {
       "type": "item",
       "id": "minecraft:waxed_oxidized_copper_bulb"
+    },
+    {
+      "type": "item",
+      "id": "svcmuteaddon:example_block"
     },
     {
       "type": "item",
@@ -10507,102 +10511,6 @@
     },
     {
       "type": "item",
-      "id": "createdeco:short_red_bricks"
-    },
-    {
-      "type": "item",
-      "id": "createdeco:tiled_red_bricks"
-    },
-    {
-      "type": "item",
-      "id": "createdeco:long_red_bricks"
-    },
-    {
-      "type": "item",
-      "id": "createdeco:corner_red_bricks"
-    },
-    {
-      "type": "item",
-      "id": "createdeco:cracked_red_bricks"
-    },
-    {
-      "type": "item",
-      "id": "createdeco:mossy_red_bricks"
-    },
-    {
-      "type": "item",
-      "id": "createdeco:short_red_brick_stairs"
-    },
-    {
-      "type": "item",
-      "id": "createdeco:tiled_red_brick_stairs"
-    },
-    {
-      "type": "item",
-      "id": "createdeco:long_red_brick_stairs"
-    },
-    {
-      "type": "item",
-      "id": "createdeco:corner_red_brick_stairs"
-    },
-    {
-      "type": "item",
-      "id": "createdeco:cracked_red_brick_stairs"
-    },
-    {
-      "type": "item",
-      "id": "createdeco:mossy_red_brick_stairs"
-    },
-    {
-      "type": "item",
-      "id": "createdeco:short_red_brick_slab"
-    },
-    {
-      "type": "item",
-      "id": "createdeco:tiled_red_brick_slab"
-    },
-    {
-      "type": "item",
-      "id": "createdeco:long_red_brick_slab"
-    },
-    {
-      "type": "item",
-      "id": "createdeco:corner_red_brick_slab"
-    },
-    {
-      "type": "item",
-      "id": "createdeco:cracked_red_brick_slab"
-    },
-    {
-      "type": "item",
-      "id": "createdeco:mossy_red_brick_slab"
-    },
-    {
-      "type": "item",
-      "id": "createdeco:short_red_brick_wall"
-    },
-    {
-      "type": "item",
-      "id": "createdeco:tiled_red_brick_wall"
-    },
-    {
-      "type": "item",
-      "id": "createdeco:long_red_brick_wall"
-    },
-    {
-      "type": "item",
-      "id": "createdeco:corner_red_brick_wall"
-    },
-    {
-      "type": "item",
-      "id": "createdeco:cracked_red_brick_wall"
-    },
-    {
-      "type": "item",
-      "id": "createdeco:mossy_red_brick_wall"
-    },
-    {
-      "type": "item",
       "id": "createdeco:verdant_bricks"
     },
     {
@@ -10715,227 +10623,99 @@
     },
     {
       "type": "item",
-      "id": "createdeco:dean_bricks"
+      "id": "createdeco:short_red_bricks"
     },
     {
       "type": "item",
-      "id": "createdeco:short_dean_bricks"
+      "id": "createdeco:tiled_red_bricks"
     },
     {
       "type": "item",
-      "id": "createdeco:tiled_dean_bricks"
+      "id": "createdeco:long_red_bricks"
     },
     {
       "type": "item",
-      "id": "createdeco:long_dean_bricks"
+      "id": "createdeco:corner_red_bricks"
     },
     {
       "type": "item",
-      "id": "createdeco:corner_dean_bricks"
+      "id": "createdeco:cracked_red_bricks"
     },
     {
       "type": "item",
-      "id": "createdeco:cracked_dean_bricks"
+      "id": "createdeco:mossy_red_bricks"
     },
     {
       "type": "item",
-      "id": "createdeco:mossy_dean_bricks"
+      "id": "createdeco:short_red_brick_stairs"
     },
     {
       "type": "item",
-      "id": "createdeco:dean_brick_stairs"
+      "id": "createdeco:tiled_red_brick_stairs"
     },
     {
       "type": "item",
-      "id": "createdeco:short_dean_brick_stairs"
+      "id": "createdeco:long_red_brick_stairs"
     },
     {
       "type": "item",
-      "id": "createdeco:tiled_dean_brick_stairs"
+      "id": "createdeco:corner_red_brick_stairs"
     },
     {
       "type": "item",
-      "id": "createdeco:long_dean_brick_stairs"
+      "id": "createdeco:cracked_red_brick_stairs"
     },
     {
       "type": "item",
-      "id": "createdeco:corner_dean_brick_stairs"
+      "id": "createdeco:mossy_red_brick_stairs"
     },
     {
       "type": "item",
-      "id": "createdeco:cracked_dean_brick_stairs"
+      "id": "createdeco:short_red_brick_slab"
     },
     {
       "type": "item",
-      "id": "createdeco:mossy_dean_brick_stairs"
+      "id": "createdeco:tiled_red_brick_slab"
     },
     {
       "type": "item",
-      "id": "createdeco:dean_brick_slab"
+      "id": "createdeco:long_red_brick_slab"
     },
     {
       "type": "item",
-      "id": "createdeco:short_dean_brick_slab"
+      "id": "createdeco:corner_red_brick_slab"
     },
     {
       "type": "item",
-      "id": "createdeco:tiled_dean_brick_slab"
+      "id": "createdeco:cracked_red_brick_slab"
     },
     {
       "type": "item",
-      "id": "createdeco:long_dean_brick_slab"
+      "id": "createdeco:mossy_red_brick_slab"
     },
     {
       "type": "item",
-      "id": "createdeco:corner_dean_brick_slab"
+      "id": "createdeco:short_red_brick_wall"
     },
     {
       "type": "item",
-      "id": "createdeco:cracked_dean_brick_slab"
+      "id": "createdeco:tiled_red_brick_wall"
     },
     {
       "type": "item",
-      "id": "createdeco:mossy_dean_brick_slab"
+      "id": "createdeco:long_red_brick_wall"
     },
     {
       "type": "item",
-      "id": "createdeco:dean_brick_wall"
+      "id": "createdeco:corner_red_brick_wall"
     },
     {
       "type": "item",
-      "id": "createdeco:short_dean_brick_wall"
+      "id": "createdeco:cracked_red_brick_wall"
     },
     {
       "type": "item",
-      "id": "createdeco:tiled_dean_brick_wall"
-    },
-    {
-      "type": "item",
-      "id": "createdeco:long_dean_brick_wall"
-    },
-    {
-      "type": "item",
-      "id": "createdeco:corner_dean_brick_wall"
-    },
-    {
-      "type": "item",
-      "id": "createdeco:cracked_dean_brick_wall"
-    },
-    {
-      "type": "item",
-      "id": "createdeco:mossy_dean_brick_wall"
-    },
-    {
-      "type": "item",
-      "id": "createdeco:pearl_bricks"
-    },
-    {
-      "type": "item",
-      "id": "createdeco:short_pearl_bricks"
-    },
-    {
-      "type": "item",
-      "id": "createdeco:tiled_pearl_bricks"
-    },
-    {
-      "type": "item",
-      "id": "createdeco:long_pearl_bricks"
-    },
-    {
-      "type": "item",
-      "id": "createdeco:corner_pearl_bricks"
-    },
-    {
-      "type": "item",
-      "id": "createdeco:cracked_pearl_bricks"
-    },
-    {
-      "type": "item",
-      "id": "createdeco:mossy_pearl_bricks"
-    },
-    {
-      "type": "item",
-      "id": "createdeco:pearl_brick_stairs"
-    },
-    {
-      "type": "item",
-      "id": "createdeco:short_pearl_brick_stairs"
-    },
-    {
-      "type": "item",
-      "id": "createdeco:tiled_pearl_brick_stairs"
-    },
-    {
-      "type": "item",
-      "id": "createdeco:long_pearl_brick_stairs"
-    },
-    {
-      "type": "item",
-      "id": "createdeco:corner_pearl_brick_stairs"
-    },
-    {
-      "type": "item",
-      "id": "createdeco:cracked_pearl_brick_stairs"
-    },
-    {
-      "type": "item",
-      "id": "createdeco:mossy_pearl_brick_stairs"
-    },
-    {
-      "type": "item",
-      "id": "createdeco:pearl_brick_slab"
-    },
-    {
-      "type": "item",
-      "id": "createdeco:short_pearl_brick_slab"
-    },
-    {
-      "type": "item",
-      "id": "createdeco:tiled_pearl_brick_slab"
-    },
-    {
-      "type": "item",
-      "id": "createdeco:long_pearl_brick_slab"
-    },
-    {
-      "type": "item",
-      "id": "createdeco:corner_pearl_brick_slab"
-    },
-    {
-      "type": "item",
-      "id": "createdeco:cracked_pearl_brick_slab"
-    },
-    {
-      "type": "item",
-      "id": "createdeco:mossy_pearl_brick_slab"
-    },
-    {
-      "type": "item",
-      "id": "createdeco:pearl_brick_wall"
-    },
-    {
-      "type": "item",
-      "id": "createdeco:short_pearl_brick_wall"
-    },
-    {
-      "type": "item",
-      "id": "createdeco:tiled_pearl_brick_wall"
-    },
-    {
-      "type": "item",
-      "id": "createdeco:long_pearl_brick_wall"
-    },
-    {
-      "type": "item",
-      "id": "createdeco:corner_pearl_brick_wall"
-    },
-    {
-      "type": "item",
-      "id": "createdeco:cracked_pearl_brick_wall"
-    },
-    {
-      "type": "item",
-      "id": "createdeco:mossy_pearl_brick_wall"
+      "id": "createdeco:mossy_red_brick_wall"
     },
     {
       "type": "item",
@@ -11048,6 +10828,118 @@
     {
       "type": "item",
       "id": "createdeco:mossy_umber_brick_wall"
+    },
+    {
+      "type": "item",
+      "id": "createdeco:dean_bricks"
+    },
+    {
+      "type": "item",
+      "id": "createdeco:short_dean_bricks"
+    },
+    {
+      "type": "item",
+      "id": "createdeco:tiled_dean_bricks"
+    },
+    {
+      "type": "item",
+      "id": "createdeco:long_dean_bricks"
+    },
+    {
+      "type": "item",
+      "id": "createdeco:corner_dean_bricks"
+    },
+    {
+      "type": "item",
+      "id": "createdeco:cracked_dean_bricks"
+    },
+    {
+      "type": "item",
+      "id": "createdeco:mossy_dean_bricks"
+    },
+    {
+      "type": "item",
+      "id": "createdeco:dean_brick_stairs"
+    },
+    {
+      "type": "item",
+      "id": "createdeco:short_dean_brick_stairs"
+    },
+    {
+      "type": "item",
+      "id": "createdeco:tiled_dean_brick_stairs"
+    },
+    {
+      "type": "item",
+      "id": "createdeco:long_dean_brick_stairs"
+    },
+    {
+      "type": "item",
+      "id": "createdeco:corner_dean_brick_stairs"
+    },
+    {
+      "type": "item",
+      "id": "createdeco:cracked_dean_brick_stairs"
+    },
+    {
+      "type": "item",
+      "id": "createdeco:mossy_dean_brick_stairs"
+    },
+    {
+      "type": "item",
+      "id": "createdeco:dean_brick_slab"
+    },
+    {
+      "type": "item",
+      "id": "createdeco:short_dean_brick_slab"
+    },
+    {
+      "type": "item",
+      "id": "createdeco:tiled_dean_brick_slab"
+    },
+    {
+      "type": "item",
+      "id": "createdeco:long_dean_brick_slab"
+    },
+    {
+      "type": "item",
+      "id": "createdeco:corner_dean_brick_slab"
+    },
+    {
+      "type": "item",
+      "id": "createdeco:cracked_dean_brick_slab"
+    },
+    {
+      "type": "item",
+      "id": "createdeco:mossy_dean_brick_slab"
+    },
+    {
+      "type": "item",
+      "id": "createdeco:dean_brick_wall"
+    },
+    {
+      "type": "item",
+      "id": "createdeco:short_dean_brick_wall"
+    },
+    {
+      "type": "item",
+      "id": "createdeco:tiled_dean_brick_wall"
+    },
+    {
+      "type": "item",
+      "id": "createdeco:long_dean_brick_wall"
+    },
+    {
+      "type": "item",
+      "id": "createdeco:corner_dean_brick_wall"
+    },
+    {
+      "type": "item",
+      "id": "createdeco:cracked_dean_brick_wall"
+    },
+    {
+      "type": "item",
+      "id": "createdeco:mossy_dean_brick_wall"
     },
     {
       "type": "item",
@@ -11384,6 +11276,118 @@
     {
       "type": "item",
       "id": "createdeco:mossy_dusk_brick_wall"
+    },
+    {
+      "type": "item",
+      "id": "createdeco:pearl_bricks"
+    },
+    {
+      "type": "item",
+      "id": "createdeco:short_pearl_bricks"
+    },
+    {
+      "type": "item",
+      "id": "createdeco:tiled_pearl_bricks"
+    },
+    {
+      "type": "item",
+      "id": "createdeco:long_pearl_bricks"
+    },
+    {
+      "type": "item",
+      "id": "createdeco:corner_pearl_bricks"
+    },
+    {
+      "type": "item",
+      "id": "createdeco:cracked_pearl_bricks"
+    },
+    {
+      "type": "item",
+      "id": "createdeco:mossy_pearl_bricks"
+    },
+    {
+      "type": "item",
+      "id": "createdeco:pearl_brick_stairs"
+    },
+    {
+      "type": "item",
+      "id": "createdeco:short_pearl_brick_stairs"
+    },
+    {
+      "type": "item",
+      "id": "createdeco:tiled_pearl_brick_stairs"
+    },
+    {
+      "type": "item",
+      "id": "createdeco:long_pearl_brick_stairs"
+    },
+    {
+      "type": "item",
+      "id": "createdeco:corner_pearl_brick_stairs"
+    },
+    {
+      "type": "item",
+      "id": "createdeco:cracked_pearl_brick_stairs"
+    },
+    {
+      "type": "item",
+      "id": "createdeco:mossy_pearl_brick_stairs"
+    },
+    {
+      "type": "item",
+      "id": "createdeco:pearl_brick_slab"
+    },
+    {
+      "type": "item",
+      "id": "createdeco:short_pearl_brick_slab"
+    },
+    {
+      "type": "item",
+      "id": "createdeco:tiled_pearl_brick_slab"
+    },
+    {
+      "type": "item",
+      "id": "createdeco:long_pearl_brick_slab"
+    },
+    {
+      "type": "item",
+      "id": "createdeco:corner_pearl_brick_slab"
+    },
+    {
+      "type": "item",
+      "id": "createdeco:cracked_pearl_brick_slab"
+    },
+    {
+      "type": "item",
+      "id": "createdeco:mossy_pearl_brick_slab"
+    },
+    {
+      "type": "item",
+      "id": "createdeco:pearl_brick_wall"
+    },
+    {
+      "type": "item",
+      "id": "createdeco:short_pearl_brick_wall"
+    },
+    {
+      "type": "item",
+      "id": "createdeco:tiled_pearl_brick_wall"
+    },
+    {
+      "type": "item",
+      "id": "createdeco:long_pearl_brick_wall"
+    },
+    {
+      "type": "item",
+      "id": "createdeco:corner_pearl_brick_wall"
+    },
+    {
+      "type": "item",
+      "id": "createdeco:cracked_pearl_brick_wall"
+    },
+    {
+      "type": "item",
+      "id": "createdeco:mossy_pearl_brick_wall"
     },
     {
       "type": "item",
@@ -13433,11 +13437,11 @@
     },
     {
       "type": "item",
-      "id": "createdieselgenerators:magenta_cement_bucket"
+      "id": "createdieselgenerators:cyan_cement_bucket"
     },
     {
       "type": "item",
-      "id": "createdieselgenerators:blue_cement_bucket"
+      "id": "createdieselgenerators:brown_cement_bucket"
     },
     {
       "type": "item",
@@ -13445,7 +13449,7 @@
     },
     {
       "type": "item",
-      "id": "createdieselgenerators:light_gray_cement_bucket"
+      "id": "createdieselgenerators:light_blue_cement_bucket"
     },
     {
       "type": "item",
@@ -13453,7 +13457,11 @@
     },
     {
       "type": "item",
-      "id": "createdieselgenerators:cyan_cement_bucket"
+      "id": "createdieselgenerators:blue_cement_bucket"
+    },
+    {
+      "type": "item",
+      "id": "createdieselgenerators:magenta_cement_bucket"
     },
     {
       "type": "item",
@@ -13465,23 +13473,19 @@
     },
     {
       "type": "item",
-      "id": "createdieselgenerators:pink_cement_bucket"
-    },
-    {
-      "type": "item",
       "id": "createdieselgenerators:purple_cement_bucket"
     },
     {
       "type": "item",
-      "id": "createdieselgenerators:white_cement_bucket"
+      "id": "createdieselgenerators:pink_cement_bucket"
     },
     {
       "type": "item",
-      "id": "createdieselgenerators:brown_cement_bucket"
+      "id": "createdieselgenerators:light_gray_cement_bucket"
     },
     {
       "type": "item",
-      "id": "createdieselgenerators:light_blue_cement_bucket"
+      "id": "createdieselgenerators:red_cement_bucket"
     },
     {
       "type": "item",
@@ -13489,7 +13493,7 @@
     },
     {
       "type": "item",
-      "id": "createdieselgenerators:red_cement_bucket"
+      "id": "createdieselgenerators:white_cement_bucket"
     },
     {
       "type": "item",
@@ -25801,7 +25805,7 @@
     },
     {
       "type": "item",
-      "id": "everycomp:ch/minecraft/circle_acacia_glass"
+      "id": "everycomp:ch/minecraft/circle_cherry_glass"
     },
     {
       "type": "item",
@@ -25809,7 +25813,23 @@
     },
     {
       "type": "item",
+      "id": "everycomp:ch/minecraft/circle_mangrove_glass"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/circle_dark_oak_glass"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/circle_acacia_glass"
+    },
+    {
+      "type": "item",
       "id": "everycomp:ch/minecraft/circle_jungle_glass"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/circle_birch_glass"
     },
     {
       "type": "item",
@@ -25818,22 +25838,6 @@
     {
       "type": "item",
       "id": "everycomp:ch/minecraft/circle_pale_oak_glass"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/circle_birch_glass"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/circle_cherry_glass"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/circle_dark_oak_glass"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/circle_mangrove_glass"
     },
     {
       "type": "item",
@@ -25853,7 +25857,7 @@
     },
     {
       "type": "item",
-      "id": "everycomp:ch/minecraft/acacia_snowflake_glass"
+      "id": "everycomp:ch/minecraft/cherry_snowflake_glass"
     },
     {
       "type": "item",
@@ -25861,7 +25865,23 @@
     },
     {
       "type": "item",
+      "id": "everycomp:ch/minecraft/mangrove_snowflake_glass"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/dark_oak_snowflake_glass"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/acacia_snowflake_glass"
+    },
+    {
+      "type": "item",
       "id": "everycomp:ch/minecraft/jungle_snowflake_glass"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/birch_snowflake_glass"
     },
     {
       "type": "item",
@@ -25870,22 +25890,6 @@
     {
       "type": "item",
       "id": "everycomp:ch/minecraft/pale_oak_snowflake_glass"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/birch_snowflake_glass"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/cherry_snowflake_glass"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/dark_oak_snowflake_glass"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/mangrove_snowflake_glass"
     },
     {
       "type": "item",
@@ -25909,7 +25913,7 @@
     },
     {
       "type": "item",
-      "id": "everycomp:ch/minecraft/acacia_bared_glass"
+      "id": "everycomp:ch/minecraft/cherry_bared_glass"
     },
     {
       "type": "item",
@@ -25917,7 +25921,23 @@
     },
     {
       "type": "item",
+      "id": "everycomp:ch/minecraft/mangrove_bared_glass"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/dark_oak_bared_glass"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/acacia_bared_glass"
+    },
+    {
+      "type": "item",
       "id": "everycomp:ch/minecraft/jungle_bared_glass"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/birch_bared_glass"
     },
     {
       "type": "item",
@@ -25929,27 +25949,11 @@
     },
     {
       "type": "item",
-      "id": "everycomp:ch/minecraft/birch_bared_glass"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/cherry_bared_glass"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/dark_oak_bared_glass"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/mangrove_bared_glass"
-    },
-    {
-      "type": "item",
       "id": "chipped:oak_bordered_glass"
     },
     {
       "type": "item",
-      "id": "everycomp:ch/minecraft/acacia_bordered_glass"
+      "id": "everycomp:ch/minecraft/cherry_bordered_glass"
     },
     {
       "type": "item",
@@ -25957,7 +25961,23 @@
     },
     {
       "type": "item",
+      "id": "everycomp:ch/minecraft/mangrove_bordered_glass"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/dark_oak_bordered_glass"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/acacia_bordered_glass"
+    },
+    {
+      "type": "item",
       "id": "everycomp:ch/minecraft/jungle_bordered_glass"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/birch_bordered_glass"
     },
     {
       "type": "item",
@@ -25969,27 +25989,11 @@
     },
     {
       "type": "item",
-      "id": "everycomp:ch/minecraft/birch_bordered_glass"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/cherry_bordered_glass"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/dark_oak_bordered_glass"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/mangrove_bordered_glass"
-    },
-    {
-      "type": "item",
       "id": "chipped:oak_diamond_bordered_glass"
     },
     {
       "type": "item",
-      "id": "everycomp:ch/minecraft/acacia_diamond_bordered_glass"
+      "id": "everycomp:ch/minecraft/cherry_diamond_bordered_glass"
     },
     {
       "type": "item",
@@ -25997,7 +26001,23 @@
     },
     {
       "type": "item",
+      "id": "everycomp:ch/minecraft/mangrove_diamond_bordered_glass"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/dark_oak_diamond_bordered_glass"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/acacia_diamond_bordered_glass"
+    },
+    {
+      "type": "item",
       "id": "everycomp:ch/minecraft/jungle_diamond_bordered_glass"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/birch_diamond_bordered_glass"
     },
     {
       "type": "item",
@@ -26009,27 +26029,11 @@
     },
     {
       "type": "item",
-      "id": "everycomp:ch/minecraft/birch_diamond_bordered_glass"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/cherry_diamond_bordered_glass"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/dark_oak_diamond_bordered_glass"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/mangrove_diamond_bordered_glass"
-    },
-    {
-      "type": "item",
       "id": "chipped:oak_horizontal_lined_glass"
     },
     {
       "type": "item",
-      "id": "everycomp:ch/minecraft/acacia_horizontal_lined_glass"
+      "id": "everycomp:ch/minecraft/cherry_horizontal_lined_glass"
     },
     {
       "type": "item",
@@ -26037,7 +26041,23 @@
     },
     {
       "type": "item",
+      "id": "everycomp:ch/minecraft/mangrove_horizontal_lined_glass"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/dark_oak_horizontal_lined_glass"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/acacia_horizontal_lined_glass"
+    },
+    {
+      "type": "item",
       "id": "everycomp:ch/minecraft/jungle_horizontal_lined_glass"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/birch_horizontal_lined_glass"
     },
     {
       "type": "item",
@@ -26049,27 +26069,11 @@
     },
     {
       "type": "item",
-      "id": "everycomp:ch/minecraft/birch_horizontal_lined_glass"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/cherry_horizontal_lined_glass"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/dark_oak_horizontal_lined_glass"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/mangrove_horizontal_lined_glass"
-    },
-    {
-      "type": "item",
       "id": "chipped:oak_large_diamond_glass"
     },
     {
       "type": "item",
-      "id": "everycomp:ch/minecraft/acacia_large_diamond_glass"
+      "id": "everycomp:ch/minecraft/cherry_large_diamond_glass"
     },
     {
       "type": "item",
@@ -26077,7 +26081,23 @@
     },
     {
       "type": "item",
+      "id": "everycomp:ch/minecraft/mangrove_large_diamond_glass"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/dark_oak_large_diamond_glass"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/acacia_large_diamond_glass"
+    },
+    {
+      "type": "item",
       "id": "everycomp:ch/minecraft/jungle_large_diamond_glass"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/birch_large_diamond_glass"
     },
     {
       "type": "item",
@@ -26089,27 +26109,11 @@
     },
     {
       "type": "item",
-      "id": "everycomp:ch/minecraft/birch_large_diamond_glass"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/cherry_large_diamond_glass"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/dark_oak_large_diamond_glass"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/mangrove_large_diamond_glass"
-    },
-    {
-      "type": "item",
       "id": "chipped:oak_line_bared_glass"
     },
     {
       "type": "item",
-      "id": "everycomp:ch/minecraft/acacia_line_bared_glass"
+      "id": "everycomp:ch/minecraft/cherry_line_bared_glass"
     },
     {
       "type": "item",
@@ -26117,7 +26121,23 @@
     },
     {
       "type": "item",
+      "id": "everycomp:ch/minecraft/mangrove_line_bared_glass"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/dark_oak_line_bared_glass"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/acacia_line_bared_glass"
+    },
+    {
+      "type": "item",
       "id": "everycomp:ch/minecraft/jungle_line_bared_glass"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/birch_line_bared_glass"
     },
     {
       "type": "item",
@@ -26129,27 +26149,11 @@
     },
     {
       "type": "item",
-      "id": "everycomp:ch/minecraft/birch_line_bared_glass"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/cherry_line_bared_glass"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/dark_oak_line_bared_glass"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/mangrove_line_bared_glass"
-    },
-    {
-      "type": "item",
       "id": "chipped:oak_ornate_bared_glass"
     },
     {
       "type": "item",
-      "id": "everycomp:ch/minecraft/acacia_ornate_bared_glass"
+      "id": "everycomp:ch/minecraft/cherry_ornate_bared_glass"
     },
     {
       "type": "item",
@@ -26157,7 +26161,23 @@
     },
     {
       "type": "item",
+      "id": "everycomp:ch/minecraft/mangrove_ornate_bared_glass"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/dark_oak_ornate_bared_glass"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/acacia_ornate_bared_glass"
+    },
+    {
+      "type": "item",
       "id": "everycomp:ch/minecraft/jungle_ornate_bared_glass"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/birch_ornate_bared_glass"
     },
     {
       "type": "item",
@@ -26169,27 +26189,11 @@
     },
     {
       "type": "item",
-      "id": "everycomp:ch/minecraft/birch_ornate_bared_glass"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/cherry_ornate_bared_glass"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/dark_oak_ornate_bared_glass"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/mangrove_ornate_bared_glass"
-    },
-    {
-      "type": "item",
       "id": "chipped:oak_woven_glass"
     },
     {
       "type": "item",
-      "id": "everycomp:ch/minecraft/acacia_woven_glass"
+      "id": "everycomp:ch/minecraft/cherry_woven_glass"
     },
     {
       "type": "item",
@@ -26197,7 +26201,23 @@
     },
     {
       "type": "item",
+      "id": "everycomp:ch/minecraft/mangrove_woven_glass"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/dark_oak_woven_glass"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/acacia_woven_glass"
+    },
+    {
+      "type": "item",
       "id": "everycomp:ch/minecraft/jungle_woven_glass"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/birch_woven_glass"
     },
     {
       "type": "item",
@@ -26206,22 +26226,6 @@
     {
       "type": "item",
       "id": "everycomp:ch/minecraft/pale_oak_woven_glass"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/birch_woven_glass"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/cherry_woven_glass"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/dark_oak_woven_glass"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/mangrove_woven_glass"
     },
     {
       "type": "item",
@@ -26241,7 +26245,7 @@
     },
     {
       "type": "item",
-      "id": "everycomp:ch/minecraft/square_acacia_glass"
+      "id": "everycomp:ch/minecraft/square_cherry_glass"
     },
     {
       "type": "item",
@@ -26249,7 +26253,23 @@
     },
     {
       "type": "item",
+      "id": "everycomp:ch/minecraft/square_mangrove_glass"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/square_dark_oak_glass"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/square_acacia_glass"
+    },
+    {
+      "type": "item",
       "id": "everycomp:ch/minecraft/square_jungle_glass"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/square_birch_glass"
     },
     {
       "type": "item",
@@ -26261,27 +26281,11 @@
     },
     {
       "type": "item",
-      "id": "everycomp:ch/minecraft/square_birch_glass"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/square_cherry_glass"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/square_dark_oak_glass"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/square_mangrove_glass"
-    },
-    {
-      "type": "item",
       "id": "chipped:circle_oak_glass_pane"
     },
     {
       "type": "item",
-      "id": "everycomp:ch/minecraft/circle_acacia_glass_pane"
+      "id": "everycomp:ch/minecraft/circle_cherry_glass_pane"
     },
     {
       "type": "item",
@@ -26289,7 +26293,23 @@
     },
     {
       "type": "item",
+      "id": "everycomp:ch/minecraft/circle_mangrove_glass_pane"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/circle_dark_oak_glass_pane"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/circle_acacia_glass_pane"
+    },
+    {
+      "type": "item",
       "id": "everycomp:ch/minecraft/circle_jungle_glass_pane"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/circle_birch_glass_pane"
     },
     {
       "type": "item",
@@ -26298,22 +26318,6 @@
     {
       "type": "item",
       "id": "everycomp:ch/minecraft/circle_pale_oak_glass_pane"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/circle_birch_glass_pane"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/circle_cherry_glass_pane"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/circle_dark_oak_glass_pane"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/circle_mangrove_glass_pane"
     },
     {
       "type": "item",
@@ -26333,7 +26337,7 @@
     },
     {
       "type": "item",
-      "id": "everycomp:ch/minecraft/acacia_snowflake_glass_pane"
+      "id": "everycomp:ch/minecraft/cherry_snowflake_glass_pane"
     },
     {
       "type": "item",
@@ -26341,7 +26345,23 @@
     },
     {
       "type": "item",
+      "id": "everycomp:ch/minecraft/mangrove_snowflake_glass_pane"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/dark_oak_snowflake_glass_pane"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/acacia_snowflake_glass_pane"
+    },
+    {
+      "type": "item",
       "id": "everycomp:ch/minecraft/jungle_snowflake_glass_pane"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/birch_snowflake_glass_pane"
     },
     {
       "type": "item",
@@ -26350,22 +26370,6 @@
     {
       "type": "item",
       "id": "everycomp:ch/minecraft/pale_oak_snowflake_glass_pane"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/birch_snowflake_glass_pane"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/cherry_snowflake_glass_pane"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/dark_oak_snowflake_glass_pane"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/mangrove_snowflake_glass_pane"
     },
     {
       "type": "item",
@@ -26389,7 +26393,7 @@
     },
     {
       "type": "item",
-      "id": "everycomp:ch/minecraft/acacia_bared_glass_pane"
+      "id": "everycomp:ch/minecraft/cherry_bared_glass_pane"
     },
     {
       "type": "item",
@@ -26397,7 +26401,23 @@
     },
     {
       "type": "item",
+      "id": "everycomp:ch/minecraft/mangrove_bared_glass_pane"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/dark_oak_bared_glass_pane"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/acacia_bared_glass_pane"
+    },
+    {
+      "type": "item",
       "id": "everycomp:ch/minecraft/jungle_bared_glass_pane"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/birch_bared_glass_pane"
     },
     {
       "type": "item",
@@ -26409,27 +26429,11 @@
     },
     {
       "type": "item",
-      "id": "everycomp:ch/minecraft/birch_bared_glass_pane"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/cherry_bared_glass_pane"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/dark_oak_bared_glass_pane"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/mangrove_bared_glass_pane"
-    },
-    {
-      "type": "item",
       "id": "chipped:oak_bordered_glass_pane"
     },
     {
       "type": "item",
-      "id": "everycomp:ch/minecraft/acacia_bordered_glass_pane"
+      "id": "everycomp:ch/minecraft/cherry_bordered_glass_pane"
     },
     {
       "type": "item",
@@ -26437,7 +26441,23 @@
     },
     {
       "type": "item",
+      "id": "everycomp:ch/minecraft/mangrove_bordered_glass_pane"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/dark_oak_bordered_glass_pane"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/acacia_bordered_glass_pane"
+    },
+    {
+      "type": "item",
       "id": "everycomp:ch/minecraft/jungle_bordered_glass_pane"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/birch_bordered_glass_pane"
     },
     {
       "type": "item",
@@ -26449,27 +26469,11 @@
     },
     {
       "type": "item",
-      "id": "everycomp:ch/minecraft/birch_bordered_glass_pane"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/cherry_bordered_glass_pane"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/dark_oak_bordered_glass_pane"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/mangrove_bordered_glass_pane"
-    },
-    {
-      "type": "item",
       "id": "chipped:oak_diamond_bordered_glass_pane"
     },
     {
       "type": "item",
-      "id": "everycomp:ch/minecraft/acacia_diamond_bordered_glass_pane"
+      "id": "everycomp:ch/minecraft/cherry_diamond_bordered_glass_pane"
     },
     {
       "type": "item",
@@ -26477,7 +26481,23 @@
     },
     {
       "type": "item",
+      "id": "everycomp:ch/minecraft/mangrove_diamond_bordered_glass_pane"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/dark_oak_diamond_bordered_glass_pane"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/acacia_diamond_bordered_glass_pane"
+    },
+    {
+      "type": "item",
       "id": "everycomp:ch/minecraft/jungle_diamond_bordered_glass_pane"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/birch_diamond_bordered_glass_pane"
     },
     {
       "type": "item",
@@ -26489,27 +26509,11 @@
     },
     {
       "type": "item",
-      "id": "everycomp:ch/minecraft/birch_diamond_bordered_glass_pane"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/cherry_diamond_bordered_glass_pane"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/dark_oak_diamond_bordered_glass_pane"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/mangrove_diamond_bordered_glass_pane"
-    },
-    {
-      "type": "item",
       "id": "chipped:oak_horizontal_lined_glass_pane"
     },
     {
       "type": "item",
-      "id": "everycomp:ch/minecraft/acacia_horizontal_lined_glass_pane"
+      "id": "everycomp:ch/minecraft/cherry_horizontal_lined_glass_pane"
     },
     {
       "type": "item",
@@ -26517,7 +26521,23 @@
     },
     {
       "type": "item",
+      "id": "everycomp:ch/minecraft/mangrove_horizontal_lined_glass_pane"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/dark_oak_horizontal_lined_glass_pane"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/acacia_horizontal_lined_glass_pane"
+    },
+    {
+      "type": "item",
       "id": "everycomp:ch/minecraft/jungle_horizontal_lined_glass_pane"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/birch_horizontal_lined_glass_pane"
     },
     {
       "type": "item",
@@ -26529,27 +26549,11 @@
     },
     {
       "type": "item",
-      "id": "everycomp:ch/minecraft/birch_horizontal_lined_glass_pane"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/cherry_horizontal_lined_glass_pane"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/dark_oak_horizontal_lined_glass_pane"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/mangrove_horizontal_lined_glass_pane"
-    },
-    {
-      "type": "item",
       "id": "chipped:oak_large_diamond_glass_pane"
     },
     {
       "type": "item",
-      "id": "everycomp:ch/minecraft/acacia_large_diamond_glass_pane"
+      "id": "everycomp:ch/minecraft/cherry_large_diamond_glass_pane"
     },
     {
       "type": "item",
@@ -26557,7 +26561,23 @@
     },
     {
       "type": "item",
+      "id": "everycomp:ch/minecraft/mangrove_large_diamond_glass_pane"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/dark_oak_large_diamond_glass_pane"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/acacia_large_diamond_glass_pane"
+    },
+    {
+      "type": "item",
       "id": "everycomp:ch/minecraft/jungle_large_diamond_glass_pane"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/birch_large_diamond_glass_pane"
     },
     {
       "type": "item",
@@ -26569,27 +26589,11 @@
     },
     {
       "type": "item",
-      "id": "everycomp:ch/minecraft/birch_large_diamond_glass_pane"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/cherry_large_diamond_glass_pane"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/dark_oak_large_diamond_glass_pane"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/mangrove_large_diamond_glass_pane"
-    },
-    {
-      "type": "item",
       "id": "chipped:oak_line_bared_glass_pane"
     },
     {
       "type": "item",
-      "id": "everycomp:ch/minecraft/acacia_line_bared_glass_pane"
+      "id": "everycomp:ch/minecraft/cherry_line_bared_glass_pane"
     },
     {
       "type": "item",
@@ -26597,7 +26601,23 @@
     },
     {
       "type": "item",
+      "id": "everycomp:ch/minecraft/mangrove_line_bared_glass_pane"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/dark_oak_line_bared_glass_pane"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/acacia_line_bared_glass_pane"
+    },
+    {
+      "type": "item",
       "id": "everycomp:ch/minecraft/jungle_line_bared_glass_pane"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/birch_line_bared_glass_pane"
     },
     {
       "type": "item",
@@ -26609,27 +26629,11 @@
     },
     {
       "type": "item",
-      "id": "everycomp:ch/minecraft/birch_line_bared_glass_pane"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/cherry_line_bared_glass_pane"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/dark_oak_line_bared_glass_pane"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/mangrove_line_bared_glass_pane"
-    },
-    {
-      "type": "item",
       "id": "chipped:oak_ornate_bared_glass_pane"
     },
     {
       "type": "item",
-      "id": "everycomp:ch/minecraft/acacia_ornate_bared_glass_pane"
+      "id": "everycomp:ch/minecraft/cherry_ornate_bared_glass_pane"
     },
     {
       "type": "item",
@@ -26637,7 +26641,23 @@
     },
     {
       "type": "item",
+      "id": "everycomp:ch/minecraft/mangrove_ornate_bared_glass_pane"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/dark_oak_ornate_bared_glass_pane"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/acacia_ornate_bared_glass_pane"
+    },
+    {
+      "type": "item",
       "id": "everycomp:ch/minecraft/jungle_ornate_bared_glass_pane"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/birch_ornate_bared_glass_pane"
     },
     {
       "type": "item",
@@ -26649,27 +26669,11 @@
     },
     {
       "type": "item",
-      "id": "everycomp:ch/minecraft/birch_ornate_bared_glass_pane"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/cherry_ornate_bared_glass_pane"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/dark_oak_ornate_bared_glass_pane"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/mangrove_ornate_bared_glass_pane"
-    },
-    {
-      "type": "item",
       "id": "chipped:oak_woven_glass_pane"
     },
     {
       "type": "item",
-      "id": "everycomp:ch/minecraft/acacia_woven_glass_pane"
+      "id": "everycomp:ch/minecraft/cherry_woven_glass_pane"
     },
     {
       "type": "item",
@@ -26677,7 +26681,23 @@
     },
     {
       "type": "item",
+      "id": "everycomp:ch/minecraft/mangrove_woven_glass_pane"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/dark_oak_woven_glass_pane"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/acacia_woven_glass_pane"
+    },
+    {
+      "type": "item",
       "id": "everycomp:ch/minecraft/jungle_woven_glass_pane"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/birch_woven_glass_pane"
     },
     {
       "type": "item",
@@ -26686,22 +26706,6 @@
     {
       "type": "item",
       "id": "everycomp:ch/minecraft/pale_oak_woven_glass_pane"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/birch_woven_glass_pane"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/cherry_woven_glass_pane"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/dark_oak_woven_glass_pane"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/mangrove_woven_glass_pane"
     },
     {
       "type": "item",
@@ -26721,7 +26725,7 @@
     },
     {
       "type": "item",
-      "id": "everycomp:ch/minecraft/square_acacia_glass_pane"
+      "id": "everycomp:ch/minecraft/square_cherry_glass_pane"
     },
     {
       "type": "item",
@@ -26729,7 +26733,23 @@
     },
     {
       "type": "item",
+      "id": "everycomp:ch/minecraft/square_mangrove_glass_pane"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/square_dark_oak_glass_pane"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/square_acacia_glass_pane"
+    },
+    {
+      "type": "item",
       "id": "everycomp:ch/minecraft/square_jungle_glass_pane"
+    },
+    {
+      "type": "item",
+      "id": "everycomp:ch/minecraft/square_birch_glass_pane"
     },
     {
       "type": "item",
@@ -26738,22 +26758,6 @@
     {
       "type": "item",
       "id": "everycomp:ch/minecraft/square_pale_oak_glass_pane"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/square_birch_glass_pane"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/square_cherry_glass_pane"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/square_dark_oak_glass_pane"
-    },
-    {
-      "type": "item",
-      "id": "everycomp:ch/minecraft/square_mangrove_glass_pane"
     },
     {
       "type": "item",
@@ -30993,19 +30997,15 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/scoria_bricks"
-    },
-    {
-      "type": "item",
       "id": "stonezone:ch/create/asurine_bricks"
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/veridium_bricks"
+      "id": "stonezone:ch/create/ochrum_bricks"
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/scorchia_bricks"
+      "id": "stonezone:ch/create/veridium_bricks"
     },
     {
       "type": "item",
@@ -31017,7 +31017,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/ochrum_bricks"
+      "id": "stonezone:ch/create/scorchia_bricks"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/scoria_bricks"
     },
     {
       "type": "item",
@@ -31025,7 +31029,7 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/scoria_mini_tiles"
+      "id": "stonezone:ch/minecraft/cinnabar_mini_tiles"
     },
     {
       "type": "item",
@@ -31037,15 +31041,11 @@
     },
     {
       "type": "item",
+      "id": "stonezone:ch/create/ochrum_mini_tiles"
+    },
+    {
+      "type": "item",
       "id": "stonezone:ch/create/veridium_mini_tiles"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/minecraft/cinnabar_mini_tiles"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/create/scorchia_mini_tiles"
     },
     {
       "type": "item",
@@ -31057,7 +31057,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/ochrum_mini_tiles"
+      "id": "stonezone:ch/create/scorchia_mini_tiles"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/scoria_mini_tiles"
     },
     {
       "type": "item",
@@ -31065,11 +31069,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/minecraft/sulfur_pillar"
+      "id": "stonezone:ch/minecraft/cinnabar_pillar"
     },
     {
       "type": "item",
-      "id": "stonezone:ch/minecraft/cinnabar_pillar"
+      "id": "stonezone:ch/minecraft/sulfur_pillar"
     },
     {
       "type": "item",
@@ -31077,7 +31081,7 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/scoria_pillar_top"
+      "id": "stonezone:ch/minecraft/cinnabar_pillar_top"
     },
     {
       "type": "item",
@@ -31089,15 +31093,11 @@
     },
     {
       "type": "item",
+      "id": "stonezone:ch/create/ochrum_pillar_top"
+    },
+    {
+      "type": "item",
       "id": "stonezone:ch/create/veridium_pillar_top"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/minecraft/cinnabar_pillar_top"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/create/scorchia_pillar_top"
     },
     {
       "type": "item",
@@ -31109,7 +31109,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/ochrum_pillar_top"
+      "id": "stonezone:ch/create/scorchia_pillar_top"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/scoria_pillar_top"
     },
     {
       "type": "item",
@@ -31117,7 +31121,7 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/scoria_scales"
+      "id": "stonezone:ch/minecraft/cinnabar_scales"
     },
     {
       "type": "item",
@@ -31129,15 +31133,11 @@
     },
     {
       "type": "item",
+      "id": "stonezone:ch/create/ochrum_scales"
+    },
+    {
+      "type": "item",
       "id": "stonezone:ch/create/veridium_scales"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/minecraft/cinnabar_scales"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/create/scorchia_scales"
     },
     {
       "type": "item",
@@ -31149,7 +31149,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/ochrum_scales"
+      "id": "stonezone:ch/create/scorchia_scales"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/scoria_scales"
     },
     {
       "type": "item",
@@ -31157,7 +31161,7 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/angry_scoria"
+      "id": "stonezone:ch/minecraft/angry_cinnabar"
     },
     {
       "type": "item",
@@ -31169,15 +31173,11 @@
     },
     {
       "type": "item",
+      "id": "stonezone:ch/create/angry_ochrum"
+    },
+    {
+      "type": "item",
       "id": "stonezone:ch/create/angry_veridium"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/minecraft/angry_cinnabar"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/create/angry_scorchia"
     },
     {
       "type": "item",
@@ -31189,7 +31189,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/angry_ochrum"
+      "id": "stonezone:ch/create/angry_scorchia"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/angry_scoria"
     },
     {
       "type": "item",
@@ -31197,7 +31201,7 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/blank_scoria_carving"
+      "id": "stonezone:ch/minecraft/blank_cinnabar_carving"
     },
     {
       "type": "item",
@@ -31209,15 +31213,11 @@
     },
     {
       "type": "item",
+      "id": "stonezone:ch/create/blank_ochrum_carving"
+    },
+    {
+      "type": "item",
       "id": "stonezone:ch/create/blank_veridium_carving"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/minecraft/blank_cinnabar_carving"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/create/blank_scorchia_carving"
     },
     {
       "type": "item",
@@ -31229,7 +31229,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/blank_ochrum_carving"
+      "id": "stonezone:ch/create/blank_scorchia_carving"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/blank_scoria_carving"
     },
     {
       "type": "item",
@@ -31237,7 +31241,7 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/carved_scoria"
+      "id": "stonezone:ch/minecraft/carved_cinnabar"
     },
     {
       "type": "item",
@@ -31249,15 +31253,11 @@
     },
     {
       "type": "item",
+      "id": "stonezone:ch/create/carved_ochrum"
+    },
+    {
+      "type": "item",
       "id": "stonezone:ch/create/carved_veridium"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/minecraft/carved_cinnabar"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/create/carved_scorchia"
     },
     {
       "type": "item",
@@ -31269,7 +31269,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/carved_ochrum"
+      "id": "stonezone:ch/create/carved_scorchia"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/carved_scoria"
     },
     {
       "type": "item",
@@ -31277,7 +31281,7 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/checkered_scoria_tiles"
+      "id": "stonezone:ch/minecraft/checkered_cinnabar_tiles"
     },
     {
       "type": "item",
@@ -31289,15 +31293,11 @@
     },
     {
       "type": "item",
+      "id": "stonezone:ch/create/checkered_ochrum_tiles"
+    },
+    {
+      "type": "item",
       "id": "stonezone:ch/create/checkered_veridium_tiles"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/minecraft/checkered_cinnabar_tiles"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/create/checkered_scorchia_tiles"
     },
     {
       "type": "item",
@@ -31309,7 +31309,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/checkered_ochrum_tiles"
+      "id": "stonezone:ch/create/checkered_scorchia_tiles"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/checkered_scoria_tiles"
     },
     {
       "type": "item",
@@ -31317,7 +31321,7 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/cobbled_scoria"
+      "id": "stonezone:ch/minecraft/cobbled_cinnabar"
     },
     {
       "type": "item",
@@ -31329,15 +31333,11 @@
     },
     {
       "type": "item",
+      "id": "stonezone:ch/create/cobbled_ochrum"
+    },
+    {
+      "type": "item",
       "id": "stonezone:ch/create/cobbled_veridium"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/minecraft/cobbled_cinnabar"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/create/cobbled_scorchia"
     },
     {
       "type": "item",
@@ -31349,7 +31349,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/cobbled_ochrum"
+      "id": "stonezone:ch/create/cobbled_scorchia"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/cobbled_scoria"
     },
     {
       "type": "item",
@@ -31357,7 +31361,7 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/cracked_scoria_bricks"
+      "id": "stonezone:ch/minecraft/cracked_cinnabar_bricks"
     },
     {
       "type": "item",
@@ -31369,15 +31373,11 @@
     },
     {
       "type": "item",
+      "id": "stonezone:ch/create/cracked_ochrum_bricks"
+    },
+    {
+      "type": "item",
       "id": "stonezone:ch/create/cracked_veridium_bricks"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/minecraft/cracked_cinnabar_bricks"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/create/cracked_scorchia_bricks"
     },
     {
       "type": "item",
@@ -31389,7 +31389,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/cracked_ochrum_bricks"
+      "id": "stonezone:ch/create/cracked_scorchia_bricks"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/cracked_scoria_bricks"
     },
     {
       "type": "item",
@@ -31397,7 +31401,7 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/cracked_disordered_scoria_bricks"
+      "id": "stonezone:ch/minecraft/cracked_disordered_cinnabar_bricks"
     },
     {
       "type": "item",
@@ -31409,15 +31413,11 @@
     },
     {
       "type": "item",
+      "id": "stonezone:ch/create/cracked_disordered_ochrum_bricks"
+    },
+    {
+      "type": "item",
       "id": "stonezone:ch/create/cracked_disordered_veridium_bricks"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/minecraft/cracked_disordered_cinnabar_bricks"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/create/cracked_disordered_scorchia_bricks"
     },
     {
       "type": "item",
@@ -31429,7 +31429,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/cracked_disordered_ochrum_bricks"
+      "id": "stonezone:ch/create/cracked_disordered_scorchia_bricks"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/cracked_disordered_scoria_bricks"
     },
     {
       "type": "item",
@@ -31437,7 +31441,7 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/cracked_flat_scoria_tiles"
+      "id": "stonezone:ch/minecraft/cracked_flat_cinnabar_tiles"
     },
     {
       "type": "item",
@@ -31449,15 +31453,11 @@
     },
     {
       "type": "item",
+      "id": "stonezone:ch/create/cracked_flat_ochrum_tiles"
+    },
+    {
+      "type": "item",
       "id": "stonezone:ch/create/cracked_flat_veridium_tiles"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/minecraft/cracked_flat_cinnabar_tiles"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/create/cracked_flat_scorchia_tiles"
     },
     {
       "type": "item",
@@ -31469,7 +31469,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/cracked_flat_ochrum_tiles"
+      "id": "stonezone:ch/create/cracked_flat_scorchia_tiles"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/cracked_flat_scoria_tiles"
     },
     {
       "type": "item",
@@ -31477,7 +31481,7 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/creeper_scoria_carving"
+      "id": "stonezone:ch/minecraft/creeper_cinnabar_carving"
     },
     {
       "type": "item",
@@ -31489,15 +31493,11 @@
     },
     {
       "type": "item",
+      "id": "stonezone:ch/create/creeper_ochrum_carving"
+    },
+    {
+      "type": "item",
       "id": "stonezone:ch/create/creeper_veridium_carving"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/minecraft/creeper_cinnabar_carving"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/create/creeper_scorchia_carving"
     },
     {
       "type": "item",
@@ -31509,7 +31509,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/creeper_ochrum_carving"
+      "id": "stonezone:ch/create/creeper_scorchia_carving"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/creeper_scoria_carving"
     },
     {
       "type": "item",
@@ -31517,7 +31521,7 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/crying_scoria"
+      "id": "stonezone:ch/minecraft/crying_cinnabar"
     },
     {
       "type": "item",
@@ -31529,15 +31533,11 @@
     },
     {
       "type": "item",
+      "id": "stonezone:ch/create/crying_ochrum"
+    },
+    {
+      "type": "item",
       "id": "stonezone:ch/create/crying_veridium"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/minecraft/crying_cinnabar"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/create/crying_scorchia"
     },
     {
       "type": "item",
@@ -31549,7 +31549,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/crying_ochrum"
+      "id": "stonezone:ch/create/crying_scorchia"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/crying_scoria"
     },
     {
       "type": "item",
@@ -31557,7 +31561,7 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/cut_blank_scoria"
+      "id": "stonezone:ch/minecraft/cut_blank_cinnabar"
     },
     {
       "type": "item",
@@ -31569,15 +31573,11 @@
     },
     {
       "type": "item",
+      "id": "stonezone:ch/create/cut_blank_ochrum"
+    },
+    {
+      "type": "item",
       "id": "stonezone:ch/create/cut_blank_veridium"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/minecraft/cut_blank_cinnabar"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/create/cut_blank_scorchia"
     },
     {
       "type": "item",
@@ -31589,7 +31589,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/cut_blank_ochrum"
+      "id": "stonezone:ch/create/cut_blank_scorchia"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/cut_blank_scoria"
     },
     {
       "type": "item",
@@ -31597,7 +31601,7 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/glad_scoria"
+      "id": "stonezone:ch/minecraft/glad_cinnabar"
     },
     {
       "type": "item",
@@ -31609,15 +31613,11 @@
     },
     {
       "type": "item",
+      "id": "stonezone:ch/create/glad_ochrum"
+    },
+    {
+      "type": "item",
       "id": "stonezone:ch/create/glad_veridium"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/minecraft/glad_cinnabar"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/create/glad_scorchia"
     },
     {
       "type": "item",
@@ -31629,7 +31629,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/glad_ochrum"
+      "id": "stonezone:ch/create/glad_scorchia"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/glad_scoria"
     },
     {
       "type": "item",
@@ -31637,7 +31641,7 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/duh_scoria"
+      "id": "stonezone:ch/minecraft/duh_cinnabar"
     },
     {
       "type": "item",
@@ -31649,15 +31653,11 @@
     },
     {
       "type": "item",
+      "id": "stonezone:ch/create/duh_ochrum"
+    },
+    {
+      "type": "item",
       "id": "stonezone:ch/create/duh_veridium"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/minecraft/duh_cinnabar"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/create/duh_scorchia"
     },
     {
       "type": "item",
@@ -31669,7 +31669,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/duh_ochrum"
+      "id": "stonezone:ch/create/duh_scorchia"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/duh_scoria"
     },
     {
       "type": "item",
@@ -31677,7 +31681,7 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/engraved_scoria"
+      "id": "stonezone:ch/minecraft/engraved_cinnabar"
     },
     {
       "type": "item",
@@ -31689,15 +31693,11 @@
     },
     {
       "type": "item",
+      "id": "stonezone:ch/create/engraved_ochrum"
+    },
+    {
+      "type": "item",
       "id": "stonezone:ch/create/engraved_veridium"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/minecraft/engraved_cinnabar"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/create/engraved_scorchia"
     },
     {
       "type": "item",
@@ -31709,7 +31709,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/engraved_ochrum"
+      "id": "stonezone:ch/create/engraved_scorchia"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/engraved_scoria"
     },
     {
       "type": "item",
@@ -31717,7 +31721,7 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/eroded_scoria"
+      "id": "stonezone:ch/minecraft/eroded_cinnabar"
     },
     {
       "type": "item",
@@ -31729,15 +31733,11 @@
     },
     {
       "type": "item",
+      "id": "stonezone:ch/create/eroded_ochrum"
+    },
+    {
+      "type": "item",
       "id": "stonezone:ch/create/eroded_veridium"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/minecraft/eroded_cinnabar"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/create/eroded_scorchia"
     },
     {
       "type": "item",
@@ -31749,7 +31749,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/eroded_ochrum"
+      "id": "stonezone:ch/create/eroded_scorchia"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/eroded_scoria"
     },
     {
       "type": "item",
@@ -31757,7 +31761,7 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/etched_scoria_bricks"
+      "id": "stonezone:ch/minecraft/etched_cinnabar_bricks"
     },
     {
       "type": "item",
@@ -31769,15 +31773,11 @@
     },
     {
       "type": "item",
+      "id": "stonezone:ch/create/etched_ochrum_bricks"
+    },
+    {
+      "type": "item",
       "id": "stonezone:ch/create/etched_veridium_bricks"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/minecraft/etched_cinnabar_bricks"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/create/etched_scorchia_bricks"
     },
     {
       "type": "item",
@@ -31789,7 +31789,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/etched_ochrum_bricks"
+      "id": "stonezone:ch/create/etched_scorchia_bricks"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/etched_scoria_bricks"
     },
     {
       "type": "item",
@@ -31797,7 +31801,7 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/flat_scoria_tiles"
+      "id": "stonezone:ch/minecraft/flat_cinnabar_tiles"
     },
     {
       "type": "item",
@@ -31809,15 +31813,11 @@
     },
     {
       "type": "item",
+      "id": "stonezone:ch/create/flat_ochrum_tiles"
+    },
+    {
+      "type": "item",
       "id": "stonezone:ch/create/flat_veridium_tiles"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/minecraft/flat_cinnabar_tiles"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/create/flat_scorchia_tiles"
     },
     {
       "type": "item",
@@ -31829,7 +31829,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/flat_ochrum_tiles"
+      "id": "stonezone:ch/create/flat_scorchia_tiles"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/flat_scoria_tiles"
     },
     {
       "type": "item",
@@ -31837,7 +31841,7 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/inlayed_scoria"
+      "id": "stonezone:ch/minecraft/inlayed_cinnabar"
     },
     {
       "type": "item",
@@ -31849,15 +31853,11 @@
     },
     {
       "type": "item",
+      "id": "stonezone:ch/create/inlayed_ochrum"
+    },
+    {
+      "type": "item",
       "id": "stonezone:ch/create/inlayed_veridium"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/minecraft/inlayed_cinnabar"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/create/inlayed_scorchia"
     },
     {
       "type": "item",
@@ -31869,7 +31869,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/inlayed_ochrum"
+      "id": "stonezone:ch/create/inlayed_scorchia"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/inlayed_scoria"
     },
     {
       "type": "item",
@@ -31877,7 +31881,7 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/inscribed_scoria"
+      "id": "stonezone:ch/minecraft/inscribed_cinnabar"
     },
     {
       "type": "item",
@@ -31889,15 +31893,11 @@
     },
     {
       "type": "item",
+      "id": "stonezone:ch/create/inscribed_ochrum"
+    },
+    {
+      "type": "item",
       "id": "stonezone:ch/create/inscribed_veridium"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/minecraft/inscribed_cinnabar"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/create/inscribed_scorchia"
     },
     {
       "type": "item",
@@ -31909,7 +31909,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/inscribed_ochrum"
+      "id": "stonezone:ch/create/inscribed_scorchia"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/inscribed_scoria"
     },
     {
       "type": "item",
@@ -31917,7 +31921,7 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/layed_scoria_bricks"
+      "id": "stonezone:ch/minecraft/layed_cinnabar_bricks"
     },
     {
       "type": "item",
@@ -31929,15 +31933,11 @@
     },
     {
       "type": "item",
+      "id": "stonezone:ch/create/layed_ochrum_bricks"
+    },
+    {
+      "type": "item",
       "id": "stonezone:ch/create/layed_veridium_bricks"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/minecraft/layed_cinnabar_bricks"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/create/layed_scorchia_bricks"
     },
     {
       "type": "item",
@@ -31949,7 +31949,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/layed_ochrum_bricks"
+      "id": "stonezone:ch/create/layed_scorchia_bricks"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/layed_scoria_bricks"
     },
     {
       "type": "item",
@@ -31957,7 +31961,7 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/loded_scoria"
+      "id": "stonezone:ch/minecraft/loded_cinnabar"
     },
     {
       "type": "item",
@@ -31969,15 +31973,11 @@
     },
     {
       "type": "item",
+      "id": "stonezone:ch/create/loded_ochrum"
+    },
+    {
+      "type": "item",
       "id": "stonezone:ch/create/loded_veridium"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/minecraft/loded_cinnabar"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/create/loded_scorchia"
     },
     {
       "type": "item",
@@ -31989,7 +31989,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/loded_ochrum"
+      "id": "stonezone:ch/create/loded_scorchia"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/loded_scoria"
     },
     {
       "type": "item",
@@ -31997,7 +32001,7 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/offset_scoria_bricks"
+      "id": "stonezone:ch/minecraft/offset_cinnabar_bricks"
     },
     {
       "type": "item",
@@ -32009,15 +32013,11 @@
     },
     {
       "type": "item",
+      "id": "stonezone:ch/create/offset_ochrum_bricks"
+    },
+    {
+      "type": "item",
       "id": "stonezone:ch/create/offset_veridium_bricks"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/minecraft/offset_cinnabar_bricks"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/create/offset_scorchia_bricks"
     },
     {
       "type": "item",
@@ -32029,7 +32029,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/offset_ochrum_bricks"
+      "id": "stonezone:ch/create/offset_scorchia_bricks"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/offset_scoria_bricks"
     },
     {
       "type": "item",
@@ -32037,7 +32041,7 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/pillar_scoria_bricks"
+      "id": "stonezone:ch/minecraft/pillar_cinnabar_bricks"
     },
     {
       "type": "item",
@@ -32049,15 +32053,11 @@
     },
     {
       "type": "item",
+      "id": "stonezone:ch/create/pillar_ochrum_bricks"
+    },
+    {
+      "type": "item",
       "id": "stonezone:ch/create/pillar_veridium_bricks"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/minecraft/pillar_cinnabar_bricks"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/create/pillar_scorchia_bricks"
     },
     {
       "type": "item",
@@ -32069,7 +32069,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/pillar_ochrum_bricks"
+      "id": "stonezone:ch/create/pillar_scorchia_bricks"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/pillar_scoria_bricks"
     },
     {
       "type": "item",
@@ -32077,7 +32081,7 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/prismal_scoria_remnants"
+      "id": "stonezone:ch/minecraft/prismal_cinnabar_remnants"
     },
     {
       "type": "item",
@@ -32089,15 +32093,11 @@
     },
     {
       "type": "item",
+      "id": "stonezone:ch/create/prismal_ochrum_remnants"
+    },
+    {
+      "type": "item",
       "id": "stonezone:ch/create/prismal_veridium_remnants"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/minecraft/prismal_cinnabar_remnants"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/create/prismal_scorchia_remnants"
     },
     {
       "type": "item",
@@ -32109,7 +32109,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/prismal_ochrum_remnants"
+      "id": "stonezone:ch/create/prismal_scorchia_remnants"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/prismal_scoria_remnants"
     },
     {
       "type": "item",
@@ -32117,7 +32121,7 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/rough_scoria"
+      "id": "stonezone:ch/minecraft/rough_cinnabar"
     },
     {
       "type": "item",
@@ -32129,15 +32133,11 @@
     },
     {
       "type": "item",
+      "id": "stonezone:ch/create/rough_ochrum"
+    },
+    {
+      "type": "item",
       "id": "stonezone:ch/create/rough_veridium"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/minecraft/rough_cinnabar"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/create/rough_scorchia"
     },
     {
       "type": "item",
@@ -32149,7 +32149,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/rough_ochrum"
+      "id": "stonezone:ch/create/rough_scorchia"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/rough_scoria"
     },
     {
       "type": "item",
@@ -32157,7 +32161,7 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/rounded_scoria_bricks"
+      "id": "stonezone:ch/minecraft/rounded_cinnabar_bricks"
     },
     {
       "type": "item",
@@ -32169,15 +32173,11 @@
     },
     {
       "type": "item",
+      "id": "stonezone:ch/create/rounded_ochrum_bricks"
+    },
+    {
+      "type": "item",
       "id": "stonezone:ch/create/rounded_veridium_bricks"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/minecraft/rounded_cinnabar_bricks"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/create/rounded_scorchia_bricks"
     },
     {
       "type": "item",
@@ -32189,7 +32189,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/rounded_ochrum_bricks"
+      "id": "stonezone:ch/create/rounded_scorchia_bricks"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/rounded_scoria_bricks"
     },
     {
       "type": "item",
@@ -32197,7 +32201,7 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/runic_carved_scoria"
+      "id": "stonezone:ch/minecraft/runic_carved_cinnabar"
     },
     {
       "type": "item",
@@ -32209,15 +32213,11 @@
     },
     {
       "type": "item",
+      "id": "stonezone:ch/create/runic_carved_ochrum"
+    },
+    {
+      "type": "item",
       "id": "stonezone:ch/create/runic_carved_veridium"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/minecraft/runic_carved_cinnabar"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/create/runic_carved_scorchia"
     },
     {
       "type": "item",
@@ -32229,7 +32229,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/runic_carved_ochrum"
+      "id": "stonezone:ch/create/runic_carved_scorchia"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/runic_carved_scoria"
     },
     {
       "type": "item",
@@ -32237,7 +32241,7 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/sad_scoria"
+      "id": "stonezone:ch/minecraft/sad_cinnabar"
     },
     {
       "type": "item",
@@ -32249,15 +32253,11 @@
     },
     {
       "type": "item",
+      "id": "stonezone:ch/create/sad_ochrum"
+    },
+    {
+      "type": "item",
       "id": "stonezone:ch/create/sad_veridium"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/minecraft/sad_cinnabar"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/create/sad_scorchia"
     },
     {
       "type": "item",
@@ -32269,7 +32269,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/sad_ochrum"
+      "id": "stonezone:ch/create/sad_scorchia"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/sad_scoria"
     },
     {
       "type": "item",
@@ -32277,7 +32281,7 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/sanded_scoria"
+      "id": "stonezone:ch/minecraft/sanded_cinnabar"
     },
     {
       "type": "item",
@@ -32289,15 +32293,11 @@
     },
     {
       "type": "item",
+      "id": "stonezone:ch/create/sanded_ochrum"
+    },
+    {
+      "type": "item",
       "id": "stonezone:ch/create/sanded_veridium"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/minecraft/sanded_cinnabar"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/create/sanded_scorchia"
     },
     {
       "type": "item",
@@ -32309,7 +32309,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/sanded_ochrum"
+      "id": "stonezone:ch/create/sanded_scorchia"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/sanded_scoria"
     },
     {
       "type": "item",
@@ -32317,11 +32321,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/minecraft/small_sulfur_bricks"
+      "id": "stonezone:ch/minecraft/small_cinnabar_bricks"
     },
     {
       "type": "item",
-      "id": "stonezone:ch/minecraft/small_cinnabar_bricks"
+      "id": "stonezone:ch/minecraft/small_sulfur_bricks"
     },
     {
       "type": "item",
@@ -32329,7 +32333,7 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/smooth_inlayed_scoria"
+      "id": "stonezone:ch/minecraft/smooth_inlayed_cinnabar"
     },
     {
       "type": "item",
@@ -32341,15 +32345,11 @@
     },
     {
       "type": "item",
+      "id": "stonezone:ch/create/smooth_inlayed_ochrum"
+    },
+    {
+      "type": "item",
       "id": "stonezone:ch/create/smooth_inlayed_veridium"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/minecraft/smooth_inlayed_cinnabar"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/create/smooth_inlayed_scorchia"
     },
     {
       "type": "item",
@@ -32361,7 +32361,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/smooth_inlayed_ochrum"
+      "id": "stonezone:ch/create/smooth_inlayed_scorchia"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/smooth_inlayed_scoria"
     },
     {
       "type": "item",
@@ -32369,7 +32373,7 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/smooth_ringed_scoria"
+      "id": "stonezone:ch/minecraft/smooth_ringed_cinnabar"
     },
     {
       "type": "item",
@@ -32381,15 +32385,11 @@
     },
     {
       "type": "item",
+      "id": "stonezone:ch/create/smooth_ringed_ochrum"
+    },
+    {
+      "type": "item",
       "id": "stonezone:ch/create/smooth_ringed_veridium"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/minecraft/smooth_ringed_cinnabar"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/create/smooth_ringed_scorchia"
     },
     {
       "type": "item",
@@ -32401,7 +32401,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/smooth_ringed_ochrum"
+      "id": "stonezone:ch/create/smooth_ringed_scorchia"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/smooth_ringed_scoria"
     },
     {
       "type": "item",
@@ -32409,7 +32413,7 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/smoothed_double_inlayed_scoria"
+      "id": "stonezone:ch/minecraft/smoothed_double_inlayed_cinnabar"
     },
     {
       "type": "item",
@@ -32421,15 +32425,11 @@
     },
     {
       "type": "item",
+      "id": "stonezone:ch/create/smoothed_double_inlayed_ochrum"
+    },
+    {
+      "type": "item",
       "id": "stonezone:ch/create/smoothed_double_inlayed_veridium"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/minecraft/smoothed_double_inlayed_cinnabar"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/create/smoothed_double_inlayed_scorchia"
     },
     {
       "type": "item",
@@ -32441,7 +32441,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/smoothed_double_inlayed_ochrum"
+      "id": "stonezone:ch/create/smoothed_double_inlayed_scorchia"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/smoothed_double_inlayed_scoria"
     },
     {
       "type": "item",
@@ -32449,7 +32453,7 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/spider_scoria_carving"
+      "id": "stonezone:ch/minecraft/spider_cinnabar_carving"
     },
     {
       "type": "item",
@@ -32461,15 +32465,11 @@
     },
     {
       "type": "item",
+      "id": "stonezone:ch/create/spider_ochrum_carving"
+    },
+    {
+      "type": "item",
       "id": "stonezone:ch/create/spider_veridium_carving"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/minecraft/spider_cinnabar_carving"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/create/spider_scorchia_carving"
     },
     {
       "type": "item",
@@ -32481,7 +32481,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/spider_ochrum_carving"
+      "id": "stonezone:ch/create/spider_scorchia_carving"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/spider_scoria_carving"
     },
     {
       "type": "item",
@@ -32489,7 +32493,7 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/spiraled_scoria"
+      "id": "stonezone:ch/minecraft/spiraled_cinnabar"
     },
     {
       "type": "item",
@@ -32501,15 +32505,11 @@
     },
     {
       "type": "item",
+      "id": "stonezone:ch/create/spiraled_ochrum"
+    },
+    {
+      "type": "item",
       "id": "stonezone:ch/create/spiraled_veridium"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/minecraft/spiraled_cinnabar"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/create/spiraled_scorchia"
     },
     {
       "type": "item",
@@ -32521,7 +32521,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/spiraled_ochrum"
+      "id": "stonezone:ch/create/spiraled_scorchia"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/spiraled_scoria"
     },
     {
       "type": "item",
@@ -32529,7 +32533,7 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/stacked_scoria_bricks"
+      "id": "stonezone:ch/minecraft/stacked_cinnabar_bricks"
     },
     {
       "type": "item",
@@ -32541,15 +32545,11 @@
     },
     {
       "type": "item",
+      "id": "stonezone:ch/create/stacked_ochrum_bricks"
+    },
+    {
+      "type": "item",
       "id": "stonezone:ch/create/stacked_veridium_bricks"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/minecraft/stacked_cinnabar_bricks"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/create/stacked_scorchia_bricks"
     },
     {
       "type": "item",
@@ -32561,7 +32561,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/stacked_ochrum_bricks"
+      "id": "stonezone:ch/create/stacked_scorchia_bricks"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/stacked_scoria_bricks"
     },
     {
       "type": "item",
@@ -32569,7 +32573,7 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/tiled_scoria"
+      "id": "stonezone:ch/minecraft/tiled_cinnabar"
     },
     {
       "type": "item",
@@ -32581,15 +32585,11 @@
     },
     {
       "type": "item",
+      "id": "stonezone:ch/create/tiled_ochrum"
+    },
+    {
+      "type": "item",
       "id": "stonezone:ch/create/tiled_veridium"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/minecraft/tiled_cinnabar"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/create/tiled_scorchia"
     },
     {
       "type": "item",
@@ -32601,7 +32601,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/tiled_ochrum"
+      "id": "stonezone:ch/create/tiled_scorchia"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/tiled_scoria"
     },
     {
       "type": "item",
@@ -32609,7 +32613,7 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/tiny_scoria_bricks"
+      "id": "stonezone:ch/minecraft/tiny_cinnabar_bricks"
     },
     {
       "type": "item",
@@ -32621,15 +32625,11 @@
     },
     {
       "type": "item",
+      "id": "stonezone:ch/create/tiny_ochrum_bricks"
+    },
+    {
+      "type": "item",
       "id": "stonezone:ch/create/tiny_veridium_bricks"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/minecraft/tiny_cinnabar_bricks"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/create/tiny_scorchia_bricks"
     },
     {
       "type": "item",
@@ -32641,7 +32641,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/tiny_ochrum_bricks"
+      "id": "stonezone:ch/create/tiny_scorchia_bricks"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/tiny_scoria_bricks"
     },
     {
       "type": "item",
@@ -32649,7 +32653,7 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/tiny_layered_scoria_bricks"
+      "id": "stonezone:ch/minecraft/tiny_layered_cinnabar_bricks"
     },
     {
       "type": "item",
@@ -32661,15 +32665,11 @@
     },
     {
       "type": "item",
+      "id": "stonezone:ch/create/tiny_layered_ochrum_bricks"
+    },
+    {
+      "type": "item",
       "id": "stonezone:ch/create/tiny_layered_veridium_bricks"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/minecraft/tiny_layered_cinnabar_bricks"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/create/tiny_layered_scorchia_bricks"
     },
     {
       "type": "item",
@@ -32681,7 +32681,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/tiny_layered_ochrum_bricks"
+      "id": "stonezone:ch/create/tiny_layered_scorchia_bricks"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/tiny_layered_scoria_bricks"
     },
     {
       "type": "item",
@@ -32689,7 +32693,7 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/tiny_layered_scoria_slabs"
+      "id": "stonezone:ch/minecraft/tiny_layered_cinnabar_slabs"
     },
     {
       "type": "item",
@@ -32701,15 +32705,11 @@
     },
     {
       "type": "item",
+      "id": "stonezone:ch/create/tiny_layered_ochrum_slabs"
+    },
+    {
+      "type": "item",
       "id": "stonezone:ch/create/tiny_layered_veridium_slabs"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/minecraft/tiny_layered_cinnabar_slabs"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/create/tiny_layered_scorchia_slabs"
     },
     {
       "type": "item",
@@ -32721,7 +32721,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/tiny_layered_ochrum_slabs"
+      "id": "stonezone:ch/create/tiny_layered_scorchia_slabs"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/tiny_layered_scoria_slabs"
     },
     {
       "type": "item",
@@ -32729,7 +32733,7 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/trodden_scoria"
+      "id": "stonezone:ch/minecraft/trodden_cinnabar"
     },
     {
       "type": "item",
@@ -32741,15 +32745,11 @@
     },
     {
       "type": "item",
+      "id": "stonezone:ch/create/trodden_ochrum"
+    },
+    {
+      "type": "item",
       "id": "stonezone:ch/create/trodden_veridium"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/minecraft/trodden_cinnabar"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/create/trodden_scorchia"
     },
     {
       "type": "item",
@@ -32761,7 +32761,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/trodden_ochrum"
+      "id": "stonezone:ch/create/trodden_scorchia"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/trodden_scoria"
     },
     {
       "type": "item",
@@ -32769,7 +32773,7 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/unamused_scoria"
+      "id": "stonezone:ch/minecraft/unamused_cinnabar"
     },
     {
       "type": "item",
@@ -32781,15 +32785,11 @@
     },
     {
       "type": "item",
+      "id": "stonezone:ch/create/unamused_ochrum"
+    },
+    {
+      "type": "item",
       "id": "stonezone:ch/create/unamused_veridium"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/minecraft/unamused_cinnabar"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/create/unamused_scorchia"
     },
     {
       "type": "item",
@@ -32801,7 +32801,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/unamused_ochrum"
+      "id": "stonezone:ch/create/unamused_scorchia"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/unamused_scoria"
     },
     {
       "type": "item",
@@ -32809,7 +32813,7 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/vertical_cut_scoria"
+      "id": "stonezone:ch/minecraft/vertical_cut_cinnabar"
     },
     {
       "type": "item",
@@ -32821,15 +32825,11 @@
     },
     {
       "type": "item",
+      "id": "stonezone:ch/create/vertical_cut_ochrum"
+    },
+    {
+      "type": "item",
       "id": "stonezone:ch/create/vertical_cut_veridium"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/minecraft/vertical_cut_cinnabar"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/create/vertical_cut_scorchia"
     },
     {
       "type": "item",
@@ -32841,7 +32841,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/vertical_cut_ochrum"
+      "id": "stonezone:ch/create/vertical_cut_scorchia"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/vertical_cut_scoria"
     },
     {
       "type": "item",
@@ -32849,7 +32853,7 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/vertical_disordered_scoria_bricks"
+      "id": "stonezone:ch/minecraft/vertical_disordered_cinnabar_bricks"
     },
     {
       "type": "item",
@@ -32861,15 +32865,11 @@
     },
     {
       "type": "item",
+      "id": "stonezone:ch/create/vertical_disordered_ochrum_bricks"
+    },
+    {
+      "type": "item",
       "id": "stonezone:ch/create/vertical_disordered_veridium_bricks"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/minecraft/vertical_disordered_cinnabar_bricks"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/create/vertical_disordered_scorchia_bricks"
     },
     {
       "type": "item",
@@ -32881,7 +32881,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/vertical_disordered_ochrum_bricks"
+      "id": "stonezone:ch/create/vertical_disordered_scorchia_bricks"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/vertical_disordered_scoria_bricks"
     },
     {
       "type": "item",
@@ -32889,7 +32893,7 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/weathered_scoria"
+      "id": "stonezone:ch/minecraft/weathered_cinnabar"
     },
     {
       "type": "item",
@@ -32901,15 +32905,11 @@
     },
     {
       "type": "item",
+      "id": "stonezone:ch/create/weathered_ochrum"
+    },
+    {
+      "type": "item",
       "id": "stonezone:ch/create/weathered_veridium"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/minecraft/weathered_cinnabar"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/create/weathered_scorchia"
     },
     {
       "type": "item",
@@ -32921,7 +32921,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/weathered_ochrum"
+      "id": "stonezone:ch/create/weathered_scorchia"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/weathered_scoria"
     },
     {
       "type": "item",
@@ -32929,7 +32933,7 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/bordered_scoria"
+      "id": "stonezone:ch/minecraft/bordered_cinnabar"
     },
     {
       "type": "item",
@@ -32941,15 +32945,11 @@
     },
     {
       "type": "item",
+      "id": "stonezone:ch/create/bordered_ochrum"
+    },
+    {
+      "type": "item",
       "id": "stonezone:ch/create/bordered_veridium"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/minecraft/bordered_cinnabar"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/create/bordered_scorchia"
     },
     {
       "type": "item",
@@ -32961,7 +32961,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/bordered_ochrum"
+      "id": "stonezone:ch/create/bordered_scorchia"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/bordered_scoria"
     },
     {
       "type": "item",
@@ -32969,7 +32973,7 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/brick_bordered_scoria"
+      "id": "stonezone:ch/minecraft/brick_bordered_cinnabar"
     },
     {
       "type": "item",
@@ -32981,15 +32985,11 @@
     },
     {
       "type": "item",
+      "id": "stonezone:ch/create/brick_bordered_ochrum"
+    },
+    {
+      "type": "item",
       "id": "stonezone:ch/create/brick_bordered_veridium"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/minecraft/brick_bordered_cinnabar"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/create/brick_bordered_scorchia"
     },
     {
       "type": "item",
@@ -33001,7 +33001,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/brick_bordered_ochrum"
+      "id": "stonezone:ch/create/brick_bordered_scorchia"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/brick_bordered_scoria"
     },
     {
       "type": "item",
@@ -33009,7 +33013,7 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/cut_scoria_column"
+      "id": "stonezone:ch/minecraft/cut_cinnabar_column"
     },
     {
       "type": "item",
@@ -33021,15 +33025,11 @@
     },
     {
       "type": "item",
+      "id": "stonezone:ch/create/cut_ochrum_column"
+    },
+    {
+      "type": "item",
       "id": "stonezone:ch/create/cut_veridium_column"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/minecraft/cut_cinnabar_column"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/create/cut_scorchia_column"
     },
     {
       "type": "item",
@@ -33041,7 +33041,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/cut_ochrum_column"
+      "id": "stonezone:ch/create/cut_scorchia_column"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/cut_scoria_column"
     },
     {
       "type": "item",
@@ -33049,7 +33053,7 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/edged_scoria_bricks"
+      "id": "stonezone:ch/minecraft/edged_cinnabar_bricks"
     },
     {
       "type": "item",
@@ -33061,15 +33065,11 @@
     },
     {
       "type": "item",
+      "id": "stonezone:ch/create/edged_ochrum_bricks"
+    },
+    {
+      "type": "item",
       "id": "stonezone:ch/create/edged_veridium_bricks"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/minecraft/edged_cinnabar_bricks"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/create/edged_scorchia_bricks"
     },
     {
       "type": "item",
@@ -33081,7 +33081,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/edged_ochrum_bricks"
+      "id": "stonezone:ch/create/edged_scorchia_bricks"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/edged_scoria_bricks"
     },
     {
       "type": "item",
@@ -33089,7 +33093,7 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/overlapping_scoria_tiles"
+      "id": "stonezone:ch/minecraft/overlapping_cinnabar_tiles"
     },
     {
       "type": "item",
@@ -33101,15 +33105,11 @@
     },
     {
       "type": "item",
+      "id": "stonezone:ch/create/overlapping_ochrum_tiles"
+    },
+    {
+      "type": "item",
       "id": "stonezone:ch/create/overlapping_veridium_tiles"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/minecraft/overlapping_cinnabar_tiles"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/create/overlapping_scorchia_tiles"
     },
     {
       "type": "item",
@@ -33121,7 +33121,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/overlapping_ochrum_tiles"
+      "id": "stonezone:ch/create/overlapping_scorchia_tiles"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/overlapping_scoria_tiles"
     },
     {
       "type": "item",
@@ -33129,19 +33133,15 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/polished_scoria"
-    },
-    {
-      "type": "item",
       "id": "stonezone:ch/create/polished_asurine"
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/polished_veridium"
+      "id": "stonezone:ch/create/polished_ochrum"
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/polished_scorchia"
+      "id": "stonezone:ch/create/polished_veridium"
     },
     {
       "type": "item",
@@ -33153,7 +33153,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/polished_ochrum"
+      "id": "stonezone:ch/create/polished_scorchia"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/polished_scoria"
     },
     {
       "type": "item",
@@ -33161,7 +33165,7 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/smooth_scoria_column"
+      "id": "stonezone:ch/minecraft/smooth_cinnabar_column"
     },
     {
       "type": "item",
@@ -33173,15 +33177,11 @@
     },
     {
       "type": "item",
+      "id": "stonezone:ch/create/smooth_ochrum_column"
+    },
+    {
+      "type": "item",
       "id": "stonezone:ch/create/smooth_veridium_column"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/minecraft/smooth_cinnabar_column"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/create/smooth_scorchia_column"
     },
     {
       "type": "item",
@@ -33193,7 +33193,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/smooth_ochrum_column"
+      "id": "stonezone:ch/create/smooth_scorchia_column"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/smooth_scoria_column"
     },
     {
       "type": "item",
@@ -33201,7 +33205,7 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/thick_inlayed_scoria"
+      "id": "stonezone:ch/minecraft/thick_inlayed_cinnabar"
     },
     {
       "type": "item",
@@ -33213,15 +33217,11 @@
     },
     {
       "type": "item",
+      "id": "stonezone:ch/create/thick_inlayed_ochrum"
+    },
+    {
+      "type": "item",
       "id": "stonezone:ch/create/thick_inlayed_veridium"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/minecraft/thick_inlayed_cinnabar"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/create/thick_inlayed_scorchia"
     },
     {
       "type": "item",
@@ -33233,7 +33233,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/thick_inlayed_ochrum"
+      "id": "stonezone:ch/create/thick_inlayed_scorchia"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/thick_inlayed_scoria"
     },
     {
       "type": "item",
@@ -33241,7 +33245,7 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/tiled_scoria_column"
+      "id": "stonezone:ch/minecraft/tiled_cinnabar_column"
     },
     {
       "type": "item",
@@ -33253,15 +33257,11 @@
     },
     {
       "type": "item",
+      "id": "stonezone:ch/create/tiled_ochrum_column"
+    },
+    {
+      "type": "item",
       "id": "stonezone:ch/create/tiled_veridium_column"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/minecraft/tiled_cinnabar_column"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/create/tiled_scorchia_column"
     },
     {
       "type": "item",
@@ -33273,7 +33273,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/tiled_ochrum_column"
+      "id": "stonezone:ch/create/tiled_scorchia_column"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/tiled_scoria_column"
     },
     {
       "type": "item",
@@ -33281,7 +33285,7 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/tiled_bordered_scoria"
+      "id": "stonezone:ch/minecraft/tiled_bordered_cinnabar"
     },
     {
       "type": "item",
@@ -33293,15 +33297,11 @@
     },
     {
       "type": "item",
+      "id": "stonezone:ch/create/tiled_bordered_ochrum"
+    },
+    {
+      "type": "item",
       "id": "stonezone:ch/create/tiled_bordered_veridium"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/minecraft/tiled_bordered_cinnabar"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/create/tiled_bordered_scorchia"
     },
     {
       "type": "item",
@@ -33313,7 +33313,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/tiled_bordered_ochrum"
+      "id": "stonezone:ch/create/tiled_bordered_scorchia"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/tiled_bordered_scoria"
     },
     {
       "type": "item",
@@ -33321,7 +33325,7 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/tiny_brick_bordered_scoria"
+      "id": "stonezone:ch/minecraft/tiny_brick_bordered_cinnabar"
     },
     {
       "type": "item",
@@ -33333,15 +33337,11 @@
     },
     {
       "type": "item",
+      "id": "stonezone:ch/create/tiny_brick_bordered_ochrum"
+    },
+    {
+      "type": "item",
       "id": "stonezone:ch/create/tiny_brick_bordered_veridium"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/minecraft/tiny_brick_bordered_cinnabar"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/create/tiny_brick_bordered_scorchia"
     },
     {
       "type": "item",
@@ -33353,7 +33353,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/tiny_brick_bordered_ochrum"
+      "id": "stonezone:ch/create/tiny_brick_bordered_scorchia"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/tiny_brick_bordered_scoria"
     },
     {
       "type": "item",
@@ -33361,7 +33365,7 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/curly_scoria_pillar"
+      "id": "stonezone:ch/minecraft/curly_cinnabar_pillar"
     },
     {
       "type": "item",
@@ -33373,15 +33377,11 @@
     },
     {
       "type": "item",
+      "id": "stonezone:ch/create/curly_ochrum_pillar"
+    },
+    {
+      "type": "item",
       "id": "stonezone:ch/create/curly_veridium_pillar"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/minecraft/curly_cinnabar_pillar"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/create/curly_scorchia_pillar"
     },
     {
       "type": "item",
@@ -33393,7 +33393,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/curly_ochrum_pillar"
+      "id": "stonezone:ch/create/curly_scorchia_pillar"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/curly_scoria_pillar"
     },
     {
       "type": "item",
@@ -33401,7 +33405,7 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/fine_scoria_pillar"
+      "id": "stonezone:ch/minecraft/fine_cinnabar_pillar"
     },
     {
       "type": "item",
@@ -33413,15 +33417,11 @@
     },
     {
       "type": "item",
+      "id": "stonezone:ch/create/fine_ochrum_pillar"
+    },
+    {
+      "type": "item",
       "id": "stonezone:ch/create/fine_veridium_pillar"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/minecraft/fine_cinnabar_pillar"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/create/fine_scorchia_pillar"
     },
     {
       "type": "item",
@@ -33433,7 +33433,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/fine_ochrum_pillar"
+      "id": "stonezone:ch/create/fine_scorchia_pillar"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/fine_scoria_pillar"
     },
     {
       "type": "item",
@@ -33441,7 +33445,7 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/ornate_scoria_pillar"
+      "id": "stonezone:ch/minecraft/ornate_cinnabar_pillar"
     },
     {
       "type": "item",
@@ -33453,15 +33457,11 @@
     },
     {
       "type": "item",
+      "id": "stonezone:ch/create/ornate_ochrum_pillar"
+    },
+    {
+      "type": "item",
       "id": "stonezone:ch/create/ornate_veridium_pillar"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/minecraft/ornate_cinnabar_pillar"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/create/ornate_scorchia_pillar"
     },
     {
       "type": "item",
@@ -33473,7 +33473,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/ornate_ochrum_pillar"
+      "id": "stonezone:ch/create/ornate_scorchia_pillar"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/ornate_scoria_pillar"
     },
     {
       "type": "item",
@@ -33481,7 +33485,7 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/simple_scoria_pillar"
+      "id": "stonezone:ch/minecraft/simple_cinnabar_pillar"
     },
     {
       "type": "item",
@@ -33493,15 +33497,11 @@
     },
     {
       "type": "item",
+      "id": "stonezone:ch/create/simple_ochrum_pillar"
+    },
+    {
+      "type": "item",
       "id": "stonezone:ch/create/simple_veridium_pillar"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/minecraft/simple_cinnabar_pillar"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/create/simple_scorchia_pillar"
     },
     {
       "type": "item",
@@ -33513,7 +33513,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/simple_ochrum_pillar"
+      "id": "stonezone:ch/create/simple_scorchia_pillar"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/simple_scoria_pillar"
     },
     {
       "type": "item",
@@ -33521,7 +33525,7 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/massive_scoria_bricks"
+      "id": "stonezone:ch/minecraft/massive_cinnabar_bricks"
     },
     {
       "type": "item",
@@ -33533,15 +33537,11 @@
     },
     {
       "type": "item",
+      "id": "stonezone:ch/create/massive_ochrum_bricks"
+    },
+    {
+      "type": "item",
       "id": "stonezone:ch/create/massive_veridium_bricks"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/minecraft/massive_cinnabar_bricks"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/create/massive_scorchia_bricks"
     },
     {
       "type": "item",
@@ -33553,7 +33553,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/massive_ochrum_bricks"
+      "id": "stonezone:ch/create/massive_scorchia_bricks"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/massive_scoria_bricks"
     },
     {
       "type": "item",
@@ -45121,7 +45125,7 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/scoria_pointed_dripstone"
+      "id": "stonezone:ch/minecraft/cinnabar_pointed_dripstone"
     },
     {
       "type": "item",
@@ -45133,15 +45137,11 @@
     },
     {
       "type": "item",
+      "id": "stonezone:ch/create/ochrum_pointed_dripstone"
+    },
+    {
+      "type": "item",
       "id": "stonezone:ch/create/veridium_pointed_dripstone"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/minecraft/cinnabar_pointed_dripstone"
-    },
-    {
-      "type": "item",
-      "id": "stonezone:ch/create/scorchia_pointed_dripstone"
     },
     {
       "type": "item",
@@ -45153,7 +45153,11 @@
     },
     {
       "type": "item",
-      "id": "stonezone:ch/create/ochrum_pointed_dripstone"
+      "id": "stonezone:ch/create/scorchia_pointed_dripstone"
+    },
+    {
+      "type": "item",
+      "id": "stonezone:ch/create/scoria_pointed_dripstone"
     },
     {
       "type": "item",
@@ -48090,6 +48094,10 @@
     {
       "type": "item",
       "id": "railways:pink_iron_wrapped_locometal_boiler"
+    },
+    {
+      "type": "item",
+      "id": "svcmuteaddon:example_item"
     },
     {
       "type": "item",
@@ -52532,6 +52540,22 @@
     {
       "type": "item",
       "id": "drivebywiretypewriter:typewriter_hub"
+    },
+    {
+      "type": "item",
+      "id": "immersive_paintings:painting"
+    },
+    {
+      "type": "item",
+      "id": "immersive_paintings:glow_painting"
+    },
+    {
+      "type": "item",
+      "id": "immersive_paintings:graffiti"
+    },
+    {
+      "type": "item",
+      "id": "immersive_paintings:glow_graffiti"
     },
     {
       "type": "item",

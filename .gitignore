@@ -20,6 +20,7 @@ config/spark/tmp/
 config/spark/tmp-client/
 XaeroWaypoints_BACKUP240807/
 xaero/
+dynamic-data-pack-cache/
 dynamic-resource-pack-cache/
 moonlight-global-datapacks/
 controllable_natives/
