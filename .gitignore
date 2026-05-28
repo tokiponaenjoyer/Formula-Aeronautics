@@ -41,6 +41,7 @@ config/voicechat/voicechat-client.properties
 config/drippyloadingscreen/early_window_reference.properties
 servers.dat
 servers.dat_old
+usernamecache.json
 
 # === Server Tools ===
 config/neoessentials
