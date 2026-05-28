@@ -1,7 +1,6 @@
 # LambDynamicLights configuration.
 # The dynamic lights mode
 mode = "fancy"
-
 # The chunk rebuild scheduler mode (immediate, culling).
 chunk_rebuild_scheduler = "culling"
 
@@ -36,5 +35,189 @@ chunk_rebuild_scheduler = "culling"
 	# Enables dynamic lighting for entities that have the Glowing effect.
 	glowing_effect = true
 
-[light_sources.settings.entities.minecraft]
-	glow_item_frame = false
+			[light_sources.settings.entities.minecraft]
+				glow_item_frame = false
+				allay = true
+				area_effect_cloud = true
+				armadillo = true
+				armor_stand = true
+				arrow = true
+				axolotl = true
+				bat = true
+				bee = true
+				blaze = true
+				block_display = true
+				boat = true
+				chest_boat = true
+				bogged = true
+				breeze = true
+				camel = true
+				cat = true
+				cave_spider = true
+				chicken = true
+				cod = true
+				cow = true
+				creaking = true
+				creeper = true
+				dolphin = true
+				donkey = true
+				dragon_fireball = true
+				drowned = true
+				elder_guardian = true
+				end_crystal = true
+				ender_dragon = true
+				enderman = true
+				endermite = true
+				evoker = true
+				evoker_fangs = true
+				experience_orb = true
+				eye_of_ender = true
+				falling_block = true
+				fireball = true
+				firework_rocket = true
+				fishing_bobber = true
+				fox = true
+				frog = true
+				ghast = true
+				giant = true
+				glow_squid = true
+				goat = true
+				guardian = true
+				happy_ghast = true
+				hoglin = true
+				horse = true
+				husk = true
+				illusioner = true
+				interaction = true
+				iron_golem = true
+				item = true
+				item_display = true
+				item_frame = true
+				leash_knot = true
+				lightning_bolt = true
+				llama = true
+				llama_spit = true
+				magma_cube = true
+				marker = true
+				minecart = true
+				chest_minecart = true
+				command_block_minecart = true
+				furnace_minecart = true
+				hopper_minecart = true
+				spawner_minecart = true
+				tnt_minecart = true
+				mooshroom = true
+				mule = true
+				ocelot = true
+				ominous_item_spawner = true
+				painting = true
+				pale_oak_boat = true
+				pale_oak_chest_boat = true
+				panda = true
+				parrot = true
+				phantom = true
+				pig = true
+				piglin = true
+				piglin_brute = true
+				pillager = true
+				player = true
+				polar_bear = true
+				potion = true
+				tnt = true
+				pufferfish = true
+				rabbit = true
+				ravager = true
+				salmon = true
+				sheep = true
+				shulker = true
+				shulker_bullet = true
+				silverfish = true
+				skeleton = true
+				skeleton_horse = true
+				slime = true
+				small_fireball = true
+				sniffer = true
+				snow_golem = true
+				snowball = true
+				spectral_arrow = true
+				spider = true
+				squid = true
+				stray = true
+				strider = true
+				sulfur_cube = true
+				tadpole = true
+				text_display = true
+				experience_bottle = true
+				egg = true
+				ender_pearl = true
+				trader_llama = true
+				trident = true
+				tropical_fish = true
+				turtle = true
+				vex = true
+				villager = true
+				vindicator = true
+				wandering_trader = true
+				warden = true
+				breeze_wind_charge = true
+				wind_charge = true
+				witch = true
+				wither = true
+				wither_skeleton = true
+				wither_skull = true
+				wolf = true
+				zoglin = true
+				zombie = true
+				zombie_horse = true
+				zombie_villager = true
+				zombified_piglin = true
+
+			[light_sources.settings.entities.interiors]
+				big_seat = true
+
+			[light_sources.settings.entities.offroad]
+				borehead_contraption_entity = true
+
+			[light_sources.settings.entities.exposure]
+				camera_stand = true
+				glass_photograph_frame = true
+				photograph_frame = true
+
+			[light_sources.settings.entities.create]
+				carriage_contraption = true
+				contraption = true
+				crafting_blueprint = true
+				gantry_contraption = true
+				package = true
+				potato_projectile = true
+				seat = true
+				stationary_contraption = true
+				super_glue = true
+
+			[light_sources.settings.entities.createdieselgenerators]
+				chemical_sprayer_projectile = true
+
+			[light_sources.settings.entities.railways]
+				conductor = true
+				jukeboxcart = true
+				benchcart = true
+
+			[light_sources.settings.entities.simulated]
+				contraption_diagram = true
+				honey_glue = true
+				launched_plunger = true
+
+			[light_sources.settings.entities.aeronautics]
+				gust = true
+				propeller_bearing_contraption = true
+
+			[light_sources.settings.entities.another_furniture]
+				seat = true
+
+			[light_sources.settings.entities.sophisticatedbackpacks]
+				everlasting_backpack_item = true
+
+[debug]
+	active_dynamic_lighting_cells = false
+	display_dynamic_lighting_chunk_rebuild = false
+	display_behavior_bounding_box = false

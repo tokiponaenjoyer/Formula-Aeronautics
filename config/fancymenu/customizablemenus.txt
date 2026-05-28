@@ -9,3 +9,12 @@ com.getitemfromblock.create_tweaked_controllers.gui.ModConfigScreen {
 net.minecraft.client.gui.screens.TitleScreen {
 }
 
+net.minecraft.client.gui.screens.inventory.CreativeModeInventoryScreen {
+}
+
+me.flashyreese.mods.reeses_sodium_options.client.gui.SodiumVideoOptionsScreen {
+}
+
+net.minecraft.client.gui.screens.PauseScreen {
+}
+

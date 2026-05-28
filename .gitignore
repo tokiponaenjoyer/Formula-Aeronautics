@@ -22,6 +22,7 @@ XaeroWaypoints_BACKUP240807/
 xaero/
 dynamic-resource-pack-cache/
 moonlight-global-datapacks/
+controllable_natives/
 
 # === User-specified hidden folders ===
 .*/
@@ -40,6 +41,10 @@ config/voicechat/voicechat-client.properties
 config/drippyloadingscreen/early_window_reference.properties
 servers.dat
 servers.dat_old
+
+# === Server Tools ===
+config/neoessentials
+neoessentials/
 
 # === General modpack exclusions ===
 *.log
