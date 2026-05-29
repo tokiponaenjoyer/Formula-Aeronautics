@@ -43,6 +43,10 @@ config/drippyloadingscreen/early_window_reference.properties
 servers.dat
 servers.dat_old
 usernamecache.json
+config/emi-accelerator/stack-cache.json
+config/emi-accelerator/reload-timings.json
+config/crash_assistant/modlist.json
+
 
 # === Server Tools ===
 config/neoessentials
