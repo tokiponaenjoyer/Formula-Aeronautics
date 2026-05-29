@@ -149,6 +149,14 @@
     "curseForgeHash": 2871381177,
     "modrinthHash": "fa2576297c7bd12b28aa7070e8141792bd66da4c"
   },
+  "collective-1.21.1-8.22.jar": {
+    "jarName": "collective-1.21.1-8.22.jar",
+    "modId": "collective",
+    "name": "Collective",
+    "version": "8.22",
+    "curseForgeHash": 287649027,
+    "modrinthHash": "f3f8b8baf461ea8e8664cf1f8fe6593f8073f36d"
+  },
   "controllable-neoforge-1.21.1-0.25.4.jar": {
     "jarName": "controllable-neoforge-1.21.1-0.25.4.jar",
     "modId": "controllable",
@@ -237,6 +245,14 @@
     "curseForgeHash": 3202437198,
     "modrinthHash": "5bd3ecef6fc66985e6fdf416706c98fb774ba03d"
   },
+  "create_simulated_additions-0.2.2-neoforge-1.21.1.jar": {
+    "jarName": "create_simulated_additions-0.2.2-neoforge-1.21.1.jar",
+    "modId": "create_simulated_additions",
+    "name": "Create: Simulated Additions",
+    "version": "0.2.2",
+    "curseForgeHash": 3562844763,
+    "modrinthHash": "968d204afcab5f6f3c50dc5f4fc526f383085801"
+  },
   "create_tweaked_controllers-1.21.1-1.2.7.jar": {
     "jarName": "create_tweaked_controllers-1.21.1-1.2.7.jar",
     "modId": "create_tweaked_controllers",
@@ -276,6 +292,22 @@
     "version": "9.5.1+1.21.1",
     "curseForgeHash": 933317947,
     "modrinthHash": "418fcd42e3a7844c9bdc71c9b6401fdb3894e0c4"
+  },
+  "difficultylock-1.21.1-4.7.jar": {
+    "jarName": "difficultylock-1.21.1-4.7.jar",
+    "modId": "difficultylock",
+    "name": "Difficulty Lock",
+    "version": "4.7",
+    "curseForgeHash": 1242158060,
+    "modrinthHash": "404d98c7e2461089a217f3c78a75dafa54e0b0e3"
+  },
+  "DnDesires-1.21.1-2.3a-BETA.jar": {
+    "jarName": "DnDesires-1.21.1-2.3a-BETA.jar",
+    "modId": "dndesires",
+    "name": "Create: Dreams n\u0027 Desires",
+    "version": "2.3a-BETA",
+    "curseForgeHash": 3194201287,
+    "modrinthHash": "72635119b4bcc49b050c50d6cbb1abb02bb3982a"
   },
   "drippy_early_loading_module_neoforge_3.1.2_MC_1.21.1.jar": {
     "jarName": "drippy_early_loading_module_neoforge_3.1.2_MC_1.21.1.jar",
@@ -514,6 +546,14 @@
     "curseForgeHash": 3220009028,
     "modrinthHash": "a558777ef4510da2f4d32ca3da6ac7384c9a9940"
   },
+  "invhistory-neoforge-1.21.1-1.0.0.jar": {
+    "jarName": "invhistory-neoforge-1.21.1-1.0.0.jar",
+    "modId": "invhistory",
+    "name": "InvHistory",
+    "version": "1.0.0",
+    "curseForgeHash": 1429042493,
+    "modrinthHash": "a04a45ce671bb89f638ac4e1db6da4e1327a33f6"
+  },
   "iris-neoforge-1.8.12+mc1.21.1.jar": {
     "jarName": "iris-neoforge-1.8.12+mc1.21.1.jar",
     "modId": "iris",
@@ -521,14 +561,6 @@
     "version": "1.8.12-snapshot+mc1.21.1-local",
     "curseForgeHash": 2055048874,
     "modrinthHash": "a3e6355915c7d3b2bc392724795113e51d289378"
-  },
-  "Item-Obliterator-NeoForge-MC1.21.1-2.3.0.jar": {
-    "jarName": "Item-Obliterator-NeoForge-MC1.21.1-2.3.0.jar",
-    "modId": "item_obliterator",
-    "name": "Item Obliterator",
-    "version": "2.3.0",
-    "curseForgeHash": 333493381,
-    "modrinthHash": "0cb46a873376d7ded387e175bf30181fcc079c15"
   },
   "Jade-1.21.1-NeoForge-15.10.5.jar": {
     "jarName": "Jade-1.21.1-NeoForge-15.10.5.jar",
@@ -631,6 +663,14 @@
     "curseForgeHash": 1878201624,
     "modrinthHash": "ee401552a031798993fffb7c9761742bdf6789e8"
   },
+  "LuckPerms-NeoForge-5.4.140.jar": {
+    "jarName": "LuckPerms-NeoForge-5.4.140.jar",
+    "modId": "luckperms",
+    "name": "LuckPerms",
+    "version": "5.4.140",
+    "curseForgeHash": 3215286953,
+    "modrinthHash": "bd368d3254d81120a8c287f79c0467478ad2d73e"
+  },
   "melody_neoforge_1.0.10_MC_1.21.jar": {
     "jarName": "melody_neoforge_1.0.10_MC_1.21.jar",
     "modId": "melody",
@@ -646,6 +686,14 @@
     "version": "3.12.0.2",
     "curseForgeHash": 3653245435,
     "modrinthHash": "47a521047b26bd1d832e86be9af9b45f1be90f3f"
+  },
+  "modernworldcreation_neoforge_2.0.1_MC_1.21.1.jar": {
+    "jarName": "modernworldcreation_neoforge_2.0.1_MC_1.21.1.jar",
+    "modId": "modernworldcreation",
+    "name": "Modern World Creation",
+    "version": "2.0.1",
+    "curseForgeHash": 2149904061,
+    "modrinthHash": "169c22905fe7568aae14e285fac1173383dcd1ff"
   },
   "modpack-update-checker-1.21.1-neoforge-0.15.6.jar": {
     "jarName": "modpack-update-checker-1.21.1-neoforge-0.15.6.jar",
@@ -678,6 +726,14 @@
     "version": "1.6.0",
     "curseForgeHash": 644849435,
     "modrinthHash": "4d81055810e07a94b68d16ab20ec298ad0d597a0"
+  },
+  "neoessentials-1.0.2.5+build.1074.jar": {
+    "jarName": "neoessentials-1.0.2.5+build.1074.jar",
+    "modId": "neoessentials",
+    "name": "neoessentials",
+    "version": "1.0.2.5",
+    "curseForgeHash": 2134591879,
+    "modrinthHash": "08490215e5bd19494c93a67deffa34a475de2afe"
   },
   "no-telemetry-1.10.0.jar": {
     "jarName": "no-telemetry-1.10.0.jar",
@@ -726,6 +782,14 @@
     "version": "21.1.1",
     "curseForgeHash": 3062745103,
     "modrinthHash": "90d3fe207c95a3a5d849ebf8d70ffa885694e30f"
+  },
+  "pixelsanticheat-1.0-Beta.jar": {
+    "jarName": "pixelsanticheat-1.0-Beta.jar",
+    "modId": "pixelsanticheat",
+    "name": "PixelsAntiCheat",
+    "version": "1.0-Beta",
+    "curseForgeHash": 494760816,
+    "modrinthHash": "f5a1bfb412c5f84f046a3b2e94d9db99fe4d6ef5"
   },
   "Platform-neoforge-1.21.1-1.3.3.jar": {
     "jarName": "Platform-neoforge-1.21.1-1.3.3.jar",
@@ -830,6 +894,14 @@
     "version": "1.0.2",
     "curseForgeHash": 2093242437,
     "modrinthHash": "5b8a0b43a474c066371b2e16f9bfb88622552a74"
+  },
+  "SimpleDiscordLink-Universal-3.4.2.jar": {
+    "jarName": "SimpleDiscordLink-Universal-3.4.2.jar",
+    "modId": "sdlink",
+    "name": "Simple Discord Link",
+    "version": "3.4.2",
+    "curseForgeHash": 3863433592,
+    "modrinthHash": "ab983206226d2ba20359393d15cc8f0246f4c8e6"
   },
   "SimpleRPC-4.1.2.jar": {
     "jarName": "SimpleRPC-4.1.2.jar",

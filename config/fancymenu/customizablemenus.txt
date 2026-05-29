@@ -18,3 +18,33 @@ me.flashyreese.mods.reeses_sodium_options.client.gui.SodiumVideoOptionsScreen {
 net.minecraft.client.gui.screens.PauseScreen {
 }
 
+net.minecraft.client.gui.screens.worldselection.CreateWorldScreen {
+}
+
+com.jab125.mpuc.client.gui.screen.changelog.NewChangelogScreen {
+}
+
+com.mrcrayfish.catalogue.client.screen.CatalogueModListScreen {
+}
+
+net.minecraft.client.gui.screens.worldselection.SelectWorldScreen {
+}
+
+net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen {
+}
+
+net.createmod.catnip.config.ui.BaseConfigScreen {
+}
+
+net.minecraft.client.gui.screens.ConfirmLinkScreen {
+}
+
+net.minecraft.client.gui.screens.options.LanguageSelectScreen {
+}
+
+net.minecraft.client.gui.screens.options.AccessibilityOptionsScreen {
+}
+
+net.minecraft.client.gui.screens.options.OptionsScreen {
+}
+

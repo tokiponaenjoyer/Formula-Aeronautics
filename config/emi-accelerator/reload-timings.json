@@ -1,629 +1,5 @@
 [
   {
-    "timestamp": 1779936200899,
-    "reload_number": 1,
-    "total_ms": 2498,
-    "cache_hit": true,
-    "steps": [
-      {
-        "name": "Clearing data",
-        "duration_ms": 0
-      },
-      {
-        "name": "Clearing data",
-        "duration_ms": 0
-      },
-      {
-        "name": "Initializing plugin from emi",
-        "duration_ms": 62
-      },
-      {
-        "name": "Initializing plugin from sophisticatedcore",
-        "duration_ms": 13
-      },
-      {
-        "name": "Initializing plugin from extra_mod_integrations_pneumaticcraft",
-        "duration_ms": 0
-      },
-      {
-        "name": "Initializing plugin from sophisticatedbackpacks",
-        "duration_ms": 0
-      },
-      {
-        "name": "Initializing plugin from extra_mod_integrations_reliquary",
-        "duration_ms": 0
-      },
-      {
-        "name": "Initializing plugin from extra_mod_integrations_chipped",
-        "duration_ms": 0
-      },
-      {
-        "name": "Initializing plugin from emixx",
-        "duration_ms": 0
-      },
-      {
-        "name": "Initializing plugin from curios",
-        "duration_ms": 1
-      },
-      {
-        "name": "Initializing plugin from emiffect",
-        "duration_ms": 0
-      },
-      {
-        "name": "Initializing plugin from emiprofessions",
-        "duration_ms": 0
-      },
-      {
-        "name": "Initializing plugin from extra_mod_integrations_irons_spellbooks",
-        "duration_ms": 0
-      },
-      {
-        "name": "Initializing plugin from extra_mod_integrations_actually_additions",
-        "duration_ms": 0
-      },
-      {
-        "name": "Initializing plugin from extra_mod_integrations_rechiseled",
-        "duration_ms": 0
-      },
-      {
-        "name": "Initializing plugin from copycats",
-        "duration_ms": 1
-      },
-      {
-        "name": "Initializing plugin from emi_loot",
-        "duration_ms": 0
-      },
-      {
-        "name": "Initializing plugin from framedblocks",
-        "duration_ms": 0
-      },
-      {
-        "name": "Initializing plugin from almostunified",
-        "duration_ms": 0
-      },
-      {
-        "name": "Initializing plugin from emi_enchanting",
-        "duration_ms": 1
-      },
-      {
-        "name": "Initializing plugin from extra_mod_integrations_farmers_delight",
-        "duration_ms": 0
-      },
-      {
-        "name": "Initializing plugin from extra_mod_integrations_core",
-        "duration_ms": 1
-      },
-      {
-        "name": "Processing tags",
-        "duration_ms": 1
-      },
-      {
-        "name": "Processing tags",
-        "duration_ms": 0
-      },
-      {
-        "name": "Constructing index",
-        "duration_ms": 54
-      },
-      {
-        "name": "Constructing index",
-        "duration_ms": 0
-      },
-      {
-        "name": "Loading plugin from emi",
-        "duration_ms": 37
-      },
-      {
-        "name": "Loading plugin from sophisticatedcore",
-        "duration_ms": 809
-      },
-      {
-        "name": "Loading plugin from extra_mod_integrations_pneumaticcraft",
-        "duration_ms": 1
-      },
-      {
-        "name": "Loading plugin from sophisticatedbackpacks",
-        "duration_ms": 2
-      },
-      {
-        "name": "Loading plugin from extra_mod_integrations_reliquary",
-        "duration_ms": 69
-      },
-      {
-        "name": "Loading plugin from extra_mod_integrations_chipped",
-        "duration_ms": 0
-      },
-      {
-        "name": "Loading plugin from emixx",
-        "duration_ms": 58
-      },
-      {
-        "name": "Loading plugin from curios",
-        "duration_ms": 33
-      },
-      {
-        "name": "Loading plugin from emiffect",
-        "duration_ms": 1
-      },
-      {
-        "name": "Loading plugin from emiprofessions",
-        "duration_ms": 149
-      },
-      {
-        "name": "Loading plugin from extra_mod_integrations_irons_spellbooks",
-        "duration_ms": 3
-      },
-      {
-        "name": "Loading plugin from extra_mod_integrations_actually_additions",
-        "duration_ms": 1
-      },
-      {
-        "name": "Loading plugin from extra_mod_integrations_rechiseled",
-        "duration_ms": 0
-      },
-      {
-        "name": "Loading plugin from copycats",
-        "duration_ms": 0
-      },
-      {
-        "name": "Loading plugin from emi_loot",
-        "duration_ms": 0
-      },
-      {
-        "name": "Loading plugin from framedblocks",
-        "duration_ms": 14
-      },
-      {
-        "name": "Loading plugin from almostunified",
-        "duration_ms": 147
-      },
-      {
-        "name": "Loading plugin from emi_enchanting",
-        "duration_ms": 2
-      },
-      {
-        "name": "Loading plugin from extra_mod_integrations_farmers_delight",
-        "duration_ms": 40
-      },
-      {
-        "name": "Loading plugin from extra_mod_integrations_core",
-        "duration_ms": 0
-      },
-      {
-        "name": "Baking index",
-        "duration_ms": 2
-      },
-      {
-        "name": "Baking index",
-        "duration_ms": 0
-      },
-      {
-        "name": "Registering late recipes",
-        "duration_ms": 513
-      },
-      {
-        "name": "Baking recipes",
-        "duration_ms": 1
-      },
-      {
-        "name": "Baking search",
-        "duration_ms": 425
-      },
-      {
-        "name": "Finishing up",
-        "duration_ms": 1
-      },
-      {
-        "name": "Finishing up",
-        "duration_ms": 0
-      },
-      {
-        "name": "complete",
-        "duration_ms": 56
-      }
-    ],
-    "phases": [
-      {
-        "name": "searchWidget.update",
-        "duration_ms": 9
-      },
-      {
-        "name": "getCraftables",
-        "duration_ms": 0
-      },
-      {
-        "name": "recalculate",
-        "duration_ms": 5
-      },
-      {
-        "name": "forceRecalculate",
-        "duration_ms": 5
-      },
-      {
-        "name": "reloadLog.bake",
-        "duration_ms": 0
-      }
-    ],
-    "checkpoints": [
-      {
-        "name": "clear_recipes",
-        "timestamp_ms": 1779936198402
-      },
-      {
-        "name": "clear_stacklist",
-        "timestamp_ms": 1779936198410
-      },
-      {
-        "name": "tags_reload",
-        "timestamp_ms": 1779936198481
-      },
-      {
-        "name": "stacklist_reload",
-        "timestamp_ms": 1779936198535
-      },
-      {
-        "name": "stacklist_bake",
-        "timestamp_ms": 1779936199903
-      },
-      {
-        "name": "recipes_bake",
-        "timestamp_ms": 1779936200417
-      },
-      {
-        "name": "bom_reload",
-        "timestamp_ms": 1779936200823
-      },
-      {
-        "name": "persistent_data_load",
-        "timestamp_ms": 1779936200827
-      },
-      {
-        "name": "step_Baking_search",
-        "timestamp_ms": 1779936200842
-      },
-      {
-        "name": "search_bake",
-        "timestamp_ms": 1779936200842
-      },
-      {
-        "name": "step_Finishing_up",
-        "timestamp_ms": 1779936200843
-      },
-      {
-        "name": "step_Finishing_up",
-        "timestamp_ms": 1779936200843
-      },
-      {
-        "name": "after_search_update",
-        "timestamp_ms": 1779936200891
-      },
-      {
-        "name": "after_force_recalculate",
-        "timestamp_ms": 1779936200896
-      },
-      {
-        "name": "after_reload_log_bake",
-        "timestamp_ms": 1779936200899
-      },
-      {
-        "name": "run_return",
-        "timestamp_ms": 1779936200899
-      }
-    ]
-  },
-  {
-    "timestamp": 1779936666758,
-    "reload_number": 2,
-    "total_ms": 1666,
-    "cache_hit": true,
-    "steps": [
-      {
-        "name": "Clearing data",
-        "duration_ms": 1
-      },
-      {
-        "name": "Clearing data",
-        "duration_ms": 0
-      },
-      {
-        "name": "Initializing plugin from emi",
-        "duration_ms": 16
-      },
-      {
-        "name": "Initializing plugin from sophisticatedcore",
-        "duration_ms": 0
-      },
-      {
-        "name": "Initializing plugin from extra_mod_integrations_pneumaticcraft",
-        "duration_ms": 0
-      },
-      {
-        "name": "Initializing plugin from sophisticatedbackpacks",
-        "duration_ms": 0
-      },
-      {
-        "name": "Initializing plugin from extra_mod_integrations_reliquary",
-        "duration_ms": 0
-      },
-      {
-        "name": "Initializing plugin from extra_mod_integrations_chipped",
-        "duration_ms": 0
-      },
-      {
-        "name": "Initializing plugin from emixx",
-        "duration_ms": 0
-      },
-      {
-        "name": "Initializing plugin from curios",
-        "duration_ms": 1
-      },
-      {
-        "name": "Initializing plugin from emiffect",
-        "duration_ms": 0
-      },
-      {
-        "name": "Initializing plugin from emiprofessions",
-        "duration_ms": 0
-      },
-      {
-        "name": "Initializing plugin from extra_mod_integrations_irons_spellbooks",
-        "duration_ms": 0
-      },
-      {
-        "name": "Initializing plugin from extra_mod_integrations_actually_additions",
-        "duration_ms": 0
-      },
-      {
-        "name": "Initializing plugin from extra_mod_integrations_rechiseled",
-        "duration_ms": 0
-      },
-      {
-        "name": "Initializing plugin from copycats",
-        "duration_ms": 0
-      },
-      {
-        "name": "Initializing plugin from emi_loot",
-        "duration_ms": 0
-      },
-      {
-        "name": "Initializing plugin from framedblocks",
-        "duration_ms": 1
-      },
-      {
-        "name": "Initializing plugin from almostunified",
-        "duration_ms": 0
-      },
-      {
-        "name": "Initializing plugin from emi_enchanting",
-        "duration_ms": 0
-      },
-      {
-        "name": "Initializing plugin from extra_mod_integrations_farmers_delight",
-        "duration_ms": 0
-      },
-      {
-        "name": "Initializing plugin from extra_mod_integrations_core",
-        "duration_ms": 0
-      },
-      {
-        "name": "Processing tags",
-        "duration_ms": 0
-      },
-      {
-        "name": "Processing tags",
-        "duration_ms": 0
-      },
-      {
-        "name": "Constructing index",
-        "duration_ms": 79
-      },
-      {
-        "name": "Constructing index",
-        "duration_ms": 0
-      },
-      {
-        "name": "Loading plugin from emi",
-        "duration_ms": 44
-      },
-      {
-        "name": "Loading plugin from sophisticatedcore",
-        "duration_ms": 486
-      },
-      {
-        "name": "Loading plugin from extra_mod_integrations_pneumaticcraft",
-        "duration_ms": 0
-      },
-      {
-        "name": "Loading plugin from sophisticatedbackpacks",
-        "duration_ms": 0
-      },
-      {
-        "name": "Loading plugin from extra_mod_integrations_reliquary",
-        "duration_ms": 12
-      },
-      {
-        "name": "Loading plugin from extra_mod_integrations_chipped",
-        "duration_ms": 0
-      },
-      {
-        "name": "Loading plugin from emixx",
-        "duration_ms": 45
-      },
-      {
-        "name": "Loading plugin from curios",
-        "duration_ms": 8
-      },
-      {
-        "name": "Loading plugin from emiffect",
-        "duration_ms": 0
-      },
-      {
-        "name": "Loading plugin from emiprofessions",
-        "duration_ms": 140
-      },
-      {
-        "name": "Loading plugin from extra_mod_integrations_irons_spellbooks",
-        "duration_ms": 0
-      },
-      {
-        "name": "Loading plugin from extra_mod_integrations_actually_additions",
-        "duration_ms": 0
-      },
-      {
-        "name": "Loading plugin from extra_mod_integrations_rechiseled",
-        "duration_ms": 1
-      },
-      {
-        "name": "Loading plugin from copycats",
-        "duration_ms": 0
-      },
-      {
-        "name": "Loading plugin from emi_loot",
-        "duration_ms": 0
-      },
-      {
-        "name": "Loading plugin from framedblocks",
-        "duration_ms": 8
-      },
-      {
-        "name": "Loading plugin from almostunified",
-        "duration_ms": 42
-      },
-      {
-        "name": "Loading plugin from emi_enchanting",
-        "duration_ms": 0
-      },
-      {
-        "name": "Loading plugin from extra_mod_integrations_farmers_delight",
-        "duration_ms": 7
-      },
-      {
-        "name": "Loading plugin from extra_mod_integrations_core",
-        "duration_ms": 0
-      },
-      {
-        "name": "Baking index",
-        "duration_ms": 0
-      },
-      {
-        "name": "Baking index",
-        "duration_ms": 0
-      },
-      {
-        "name": "Registering late recipes",
-        "duration_ms": 413
-      },
-      {
-        "name": "Baking recipes",
-        "duration_ms": 0
-      },
-      {
-        "name": "Baking search",
-        "duration_ms": 357
-      },
-      {
-        "name": "Finishing up",
-        "duration_ms": 0
-      },
-      {
-        "name": "Finishing up",
-        "duration_ms": 0
-      },
-      {
-        "name": "complete",
-        "duration_ms": 5
-      }
-    ],
-    "phases": [
-      {
-        "name": "searchWidget.update",
-        "duration_ms": 5
-      },
-      {
-        "name": "getCraftables",
-        "duration_ms": 0
-      },
-      {
-        "name": "recalculate",
-        "duration_ms": 0
-      },
-      {
-        "name": "forceRecalculate",
-        "duration_ms": 0
-      },
-      {
-        "name": "reloadLog.bake",
-        "duration_ms": 0
-      }
-    ],
-    "checkpoints": [
-      {
-        "name": "clear_recipes",
-        "timestamp_ms": 1779936665093
-      },
-      {
-        "name": "clear_stacklist",
-        "timestamp_ms": 1779936665099
-      },
-      {
-        "name": "tags_reload",
-        "timestamp_ms": 1779936665111
-      },
-      {
-        "name": "stacklist_reload",
-        "timestamp_ms": 1779936665193
-      },
-      {
-        "name": "stacklist_bake",
-        "timestamp_ms": 1779936665984
-      },
-      {
-        "name": "recipes_bake",
-        "timestamp_ms": 1779936666396
-      },
-      {
-        "name": "bom_reload",
-        "timestamp_ms": 1779936666743
-      },
-      {
-        "name": "persistent_data_load",
-        "timestamp_ms": 1779936666745
-      },
-      {
-        "name": "step_Baking_search",
-        "timestamp_ms": 1779936666753
-      },
-      {
-        "name": "search_bake",
-        "timestamp_ms": 1779936666753
-      },
-      {
-        "name": "step_Finishing_up",
-        "timestamp_ms": 1779936666753
-      },
-      {
-        "name": "step_Finishing_up",
-        "timestamp_ms": 1779936666753
-      },
-      {
-        "name": "after_search_update",
-        "timestamp_ms": 1779936666758
-      },
-      {
-        "name": "after_force_recalculate",
-        "timestamp_ms": 1779936666758
-      },
-      {
-        "name": "after_reload_log_bake",
-        "timestamp_ms": 1779936666758
-      },
-      {
-        "name": "run_return",
-        "timestamp_ms": 1779936666758
-      }
-    ]
-  },
-  {
     "timestamp": 1779989542330,
     "reload_number": 1,
     "total_ms": 4803,
@@ -3822,6 +3198,352 @@
       {
         "name": "run_return",
         "timestamp_ms": 1780001566375
+      }
+    ]
+  },
+  {
+    "timestamp": 1780074663019,
+    "reload_number": 1,
+    "total_ms": 5467,
+    "cache_hit": false,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from emi",
+        "duration_ms": 128
+      },
+      {
+        "name": "Initializing plugin from sophisticatedcore",
+        "duration_ms": 30
+      },
+      {
+        "name": "Initializing plugin from extra_mod_integrations_pneumaticcraft",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from sophisticatedbackpacks",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from extra_mod_integrations_reliquary",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from extra_mod_integrations_chipped",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from curios",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from computercraft",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emiprofessions",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from extra_mod_integrations_irons_spellbooks",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from extra_mod_integrations_actually_additions",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from extra_mod_integrations_rechiseled",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from copycats",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from kubejs",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi_loot",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from framedblocks",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from almostunified",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi_enchanting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from extra_mod_integrations_farmers_delight",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from extra_mod_integrations_core",
+        "duration_ms": 0
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 6
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 0
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 85
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi",
+        "duration_ms": 2806
+      },
+      {
+        "name": "Loading plugin from sophisticatedcore",
+        "duration_ms": 1135
+      },
+      {
+        "name": "Loading plugin from extra_mod_integrations_pneumaticcraft",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from sophisticatedbackpacks",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading plugin from extra_mod_integrations_reliquary",
+        "duration_ms": 91
+      },
+      {
+        "name": "Loading plugin from extra_mod_integrations_chipped",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading plugin from curios",
+        "duration_ms": 38
+      },
+      {
+        "name": "Loading plugin from computercraft",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emiprofessions",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading plugin from extra_mod_integrations_irons_spellbooks",
+        "duration_ms": 10
+      },
+      {
+        "name": "Loading plugin from extra_mod_integrations_actually_additions",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from extra_mod_integrations_rechiseled",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from copycats",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from kubejs",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi_loot",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading plugin from framedblocks",
+        "duration_ms": 34
+      },
+      {
+        "name": "Loading plugin from almostunified",
+        "duration_ms": 131
+      },
+      {
+        "name": "Loading plugin from emi_enchanting",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading plugin from extra_mod_integrations_farmers_delight",
+        "duration_ms": 38
+      },
+      {
+        "name": "Loading plugin from extra_mod_integrations_core",
+        "duration_ms": 0
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 2
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Registering late recipes",
+        "duration_ms": 82
+      },
+      {
+        "name": "Baking recipes",
+        "duration_ms": 4
+      },
+      {
+        "name": "Baking search",
+        "duration_ms": 769
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 4
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 0
+      },
+      {
+        "name": "complete",
+        "duration_ms": 65
+      }
+    ],
+    "phases": [
+      {
+        "name": "searchWidget.update",
+        "duration_ms": 10
+      },
+      {
+        "name": "getCraftables",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 10
+      },
+      {
+        "name": "forceRecalculate",
+        "duration_ms": 10
+      },
+      {
+        "name": "reloadLog.bake",
+        "duration_ms": 0
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1780074657554
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1780074657567
+      },
+      {
+        "name": "tags_reload",
+        "timestamp_ms": 1780074657719
+      },
+      {
+        "name": "stacklist_reload",
+        "timestamp_ms": 1780074657810
+      },
+      {
+        "name": "stacklist_bake",
+        "timestamp_ms": 1780074662095
+      },
+      {
+        "name": "recipes_bake",
+        "timestamp_ms": 1780074662181
+      },
+      {
+        "name": "bom_reload",
+        "timestamp_ms": 1780074662892
+      },
+      {
+        "name": "persistent_data_load",
+        "timestamp_ms": 1780074662907
+      },
+      {
+        "name": "step_Baking_search",
+        "timestamp_ms": 1780074662950
+      },
+      {
+        "name": "search_bake",
+        "timestamp_ms": 1780074662950
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1780074662954
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1780074662954
+      },
+      {
+        "name": "after_search_update",
+        "timestamp_ms": 1780074663006
+      },
+      {
+        "name": "after_force_recalculate",
+        "timestamp_ms": 1780074663016
+      },
+      {
+        "name": "after_reload_log_bake",
+        "timestamp_ms": 1780074663019
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1780074663019
+      }
+    ]
+  },
+  {
+    "timestamp": 1780074846201,
+    "reload_number": 2,
+    "total_ms": 4,
+    "cache_hit": false,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "complete",
+        "duration_ms": 4
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1780074846197
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1780074846201
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1780074846201
       }
     ]
   }
