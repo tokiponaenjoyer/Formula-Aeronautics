@@ -46,7 +46,7 @@
   "crackingBlockParticles": true,
   "destroyedBlockParticles": true,
   "disabledParticles": [],
-  "tileEntityDistanceCulling": true,
+  "tileEntityDistanceCulling": false,
   "tileEntityCullingDistanceX": 4096,
   "tileEntityCullingDistanceY": 32,
   "entityDistanceCulling": true,
