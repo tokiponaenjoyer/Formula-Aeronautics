@@ -24,6 +24,8 @@ dynamic-data-pack-cache/
 dynamic-resource-pack-cache/
 moonlight-global-datapacks/
 controllable_natives/
+ldlib2/
+Sable-Schematics/
 
 # === User-specified hidden folders ===
 .*/
@@ -46,6 +48,7 @@ usernamecache.json
 config/emi-accelerator/stack-cache.json
 config/emi-accelerator/reload-timings.json
 config/crash_assistant/modlist.json
+emi.json
 
 
 # === Server Tools ===

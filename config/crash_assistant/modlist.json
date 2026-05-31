@@ -141,6 +141,14 @@
     "curseForgeHash": 527531260,
     "modrinthHash": "6f5395f58139802edfde7cb9170279f92f291971"
   },
+  "chloride-NEOFORGE-mc1.21.1-v1.7.7.jar": {
+    "jarName": "chloride-NEOFORGE-mc1.21.1-v1.7.7.jar",
+    "modId": "chloride",
+    "name": "Chloride",
+    "version": "1.7.7",
+    "curseForgeHash": 847787108,
+    "modrinthHash": "8cf2a486486f57fc0f26562b77bfca540bcffedd"
+  },
   "Clumps-neoforge-1.21.1-19.0.0.1.jar": {
     "jarName": "Clumps-neoforge-1.21.1-19.0.0.1.jar",
     "modId": "clumps",
@@ -156,14 +164,6 @@
     "version": "8.22",
     "curseForgeHash": 287649027,
     "modrinthHash": "f3f8b8baf461ea8e8664cf1f8fe6593f8073f36d"
-  },
-  "controllable-neoforge-1.21.1-0.25.4.jar": {
-    "jarName": "controllable-neoforge-1.21.1-0.25.4.jar",
-    "modId": "controllable",
-    "name": "Controllable",
-    "version": "0.25.4",
-    "curseForgeHash": 3905723338,
-    "modrinthHash": "9d499c8f8926955e04948dad68c7b7a4538801c3"
   },
   "Controlling-neoforge-1.21.1-19.0.5.jar": {
     "jarName": "Controlling-neoforge-1.21.1-19.0.5.jar",
@@ -228,14 +228,6 @@
     "version": "1.2.0-mc1.21.1",
     "curseForgeHash": 3403467653,
     "modrinthHash": "70b02826b3ce03db83c5234f54012f55b409c5da"
-  },
-  "create_pattern_schematics-2.0.10.jar": {
-    "jarName": "create_pattern_schematics-2.0.10.jar",
-    "modId": "create_pattern_schematics",
-    "name": "Create: Pattern Schematics",
-    "version": "2.0.10",
-    "curseForgeHash": 3055861905,
-    "modrinthHash": "e3dea574c3b3d590444796a42e8f7456280b1063"
   },
   "create_power_loader-2.0.5-mc1.21.1.jar": {
     "jarName": "create_power_loader-2.0.5-mc1.21.1.jar",
@@ -482,6 +474,14 @@
     "curseForgeHash": 2808038058,
     "modrinthHash": "9563692efb708b6b568df27a01ec52f6311928ef"
   },
+  "fetchjs-1.0.0.jar": {
+    "jarName": "fetchjs-1.0.0.jar",
+    "modId": "fetchjs",
+    "name": "FetchJS",
+    "version": "1.0.0",
+    "curseForgeHash": 3917468548,
+    "modrinthHash": "cf450a0bffe20492fb9b407d37143697fbf64246"
+  },
   "FramedBlocks-10.6.0.jar": {
     "jarName": "FramedBlocks-10.6.0.jar",
     "modId": "framedblocks",
@@ -562,6 +562,14 @@
     "curseForgeHash": 2055048874,
     "modrinthHash": "a3e6355915c7d3b2bc392724795113e51d289378"
   },
+  "Item-Obliterator-NeoForge-MC1.21.1-2.3.0.jar": {
+    "jarName": "Item-Obliterator-NeoForge-MC1.21.1-2.3.0.jar",
+    "modId": "item_obliterator",
+    "name": "Item Obliterator",
+    "version": "2.3.0",
+    "curseForgeHash": 333493381,
+    "modrinthHash": "0cb46a873376d7ded387e175bf30181fcc079c15"
+  },
   "Jade-1.21.1-NeoForge-15.10.5.jar": {
     "jarName": "Jade-1.21.1-NeoForge-15.10.5.jar",
     "modId": "jade",
@@ -631,6 +639,14 @@
     "curseForgeHash": 791753316,
     "modrinthHash": "d0ab30eebffdb999c07964c5775b199792b5cf46"
   },
+  "ldlib2-neoforge-1.21.1-2.2.13-all.jar": {
+    "jarName": "ldlib2-neoforge-1.21.1-2.2.13-all.jar",
+    "modId": "ldlib2",
+    "name": "LowDragLib2",
+    "version": "2.2.13",
+    "curseForgeHash": 531852006,
+    "modrinthHash": "1283a9536addba6bffad275c457fc4db70cecf4a"
+  },
   "letmedespawn-1.21.x-neoforge-1.5.0.jar": {
     "jarName": "letmedespawn-1.21.x-neoforge-1.5.0.jar",
     "modId": "letmedespawn",
@@ -646,6 +662,14 @@
     "version": "0.15.3+mc1.21.1",
     "curseForgeHash": 1666655641,
     "modrinthHash": "9fd5fa9076044180ae7f51672de74669196ec72e"
+  },
+  "lithosphere-1.7.jar": {
+    "jarName": "lithosphere-1.7.jar",
+    "modId": "mr_lithosphere",
+    "name": "Lithosphere",
+    "version": "1.7",
+    "curseForgeHash": 827421558,
+    "modrinthHash": "a77a7fb21336f7dc16de8ee51986de7ee1c7fc81"
   },
   "lmft-1.1.1+1.21.9-neoforge.jar": {
     "jarName": "lmft-1.1.1+1.21.9-neoforge.jar",
@@ -815,13 +839,13 @@
     "curseForgeHash": 3308897024,
     "modrinthHash": "55d182326fb89466f857c38d8d6cfdeb3cf90066"
   },
-  "PuzzlesLib-v21.1.50-1.21.1-NeoForge.jar": {
-    "jarName": "PuzzlesLib-v21.1.50-1.21.1-NeoForge.jar",
+  "PuzzlesLib-v21.1.51-1.21.1-NeoForge.jar": {
+    "jarName": "PuzzlesLib-v21.1.51-1.21.1-NeoForge.jar",
     "modId": "puzzleslib",
     "name": "Puzzles Lib",
-    "version": "21.1.50",
-    "curseForgeHash": 804454531,
-    "modrinthHash": "96ab8e5b20ee800a8ac0dfb2f5ba8604ed7aa6d9"
+    "version": "21.1.51",
+    "curseForgeHash": 986404996,
+    "modrinthHash": "035de52d3eb18ceeca4e4e63516af873c0975060"
   },
   "railways-0.2.0+neoforge-mc1.21.1.jar": {
     "jarName": "railways-0.2.0+neoforge-mc1.21.1.jar",
@@ -862,6 +886,14 @@
     "version": "1.2.2",
     "curseForgeHash": 1741490269,
     "modrinthHash": "c5ecd3fcf60a31d84112c708abe29e341b2d1b73"
+  },
+  "sable-schematic-api-0.2.6.jar": {
+    "jarName": "sable-schematic-api-0.2.6.jar",
+    "modId": "sable_schematic_api",
+    "name": "Sable Schematic API",
+    "version": "0.2.6",
+    "curseForgeHash": 601815664,
+    "modrinthHash": "d231ee72e6ea676714e6c59cf730deb8652063af"
   },
   "sablejade-1.1.0.jar": {
     "jarName": "sablejade-1.1.0.jar",
