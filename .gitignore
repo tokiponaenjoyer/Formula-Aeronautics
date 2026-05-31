@@ -35,7 +35,7 @@ Sable-Schematics/
 realms_persistence.json
 command_history.txt
 ponders_watched.json
-options.txt
+/options.txt
 usercache.json
 debug-profile.json
 config/iris.properties
