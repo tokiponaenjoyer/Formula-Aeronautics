@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "hotfixesFormat": null,
+  "versions": [
+    {
+      "id": "0.1.0-alpha",
+      "releasedAt": 1772665200000,
+      "promotions": {
+        "downloads": {
+          "generic": "https://github.com/Syrup-Studios/shenanigans/releases/tag/v0.2.0-alpha"
+        }
+      }
+    },
+    {
+      "id": "0.2.0-alpha",
+      "releasedAt": 1772665200000,
+      "promotions": {
+        "downloads": {
+          "generic": "https://github.com/Syrup-Studios/shenanigans/releases/tag/v0.2.0-alpha"
+        }
+      }
+    },
+    {
+      "id": "0.3.0-alpha",
+      "releasedAt": 1772665200000,
+      "promotions": {
+        "downloads": {
+          "generic": "https://github.com/Syrup-Studios/shenanigans/releases/tag/v0.2.0-alpha"
+        }
+      }
+    }
+  ]
+}
