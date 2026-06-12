@@ -4,9 +4,9 @@
   // -----------------------------------------------------------
   //  
   // How to add items?
-  //   - They are json strings, so you need to separate each
-  //     entry with a comma, except the last
-  //   - If you start an entry with !, it will be treated as a regular expression
+  //   - They are json strings"so you need to separate each
+  //     entry with a comma"except the last
+  //   - If you start an entry with !"it will be treated as a regular expression
   //     Example: "!minecraft:.*_sword" to disable all swords
   //  
   // -----------------------------------------------------------
@@ -16,10 +16,37 @@
   // Items here will be unusable completely
   //    Example: minecraft:diamond
   "blacklisted_items": [
-    "examplemod:example_item"
+    "worldedit_items:superpickaxe",
+    "universalkeyboard:ace_keyboard",
+    "universalkeyboard:bi_keyboard",
+    "universalkeyboard:rainbow_keyboard",
+    "universalkeyboard:trans_keyboard",
+    "universalkeyboard:universal_keyboard",
+    "simulated:magenta_portable_engine",
+    "simulated:orange_portable_engine",
+    "simulated:white_portable_engine",
+    "simulated:cyan_portable_engine",
+    "simulated:gray_portable_engine",
+    "simulated:pink_portable_engine",
+    "simulated:red_portable_engine",
+    "simulated:black_portable_engine",
+    "simulated:lime_portable_engine",
+    "dndesires:cog_crank",
+    "dndesires:large_cog_crank",
+    "sophisticatedcore:xp_bucket",
+    "simulated:light_gray_portable_engine",
+    "simulated:purple_portable_engine",
+    "simulated:blue_portable_engine",
+    "simulated:brown_portable_engine",
+    "simulated:green_portable_engine",
+    "simulated:light_blue_portable_engine",
+    "tracks:small_track_drive_wheel",
+    "tracks:small_suspension_track",
+    "tracks:track_mount",
+    "dndesires:inverse_gearshift"
   ],
   // -----------------------------------------------------------
-  // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
+  // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present"the item gets removed.
   // Use with caution! This is a very expensive operation and can cause lag if you have a lot of items blacklisted.
   // 	
   // 	 Example to disable a regeneration potion: Potion:"minecraft:regeneration"
@@ -45,11 +72,11 @@
     "examplemod:example_item"
   ],
   // -----------------------------------------------------------
-  // If true, the mod will use a hashset to handle the blacklisted items
+  // If true"the mod will use a hashset to handle the blacklisted items
   // This is a more optimized approach only if you have a lot of items blacklisted (20 or more is recommended)
-  // If you just have a small amount of items blacklisted, keep this false
+  // If you just have a small amount of items blacklisted"keep this false
   //  
   // [!] Enabling this will disable all regular expressions
-  // [!] Does not apply to NBT, only item blacklist / interaction / attack
-  "use_hashmap_optimizations": false
+  // [!] Does not apply to NBT"only item blacklist / interaction / attack
+  "use_hashmap_optimizations": true
 }

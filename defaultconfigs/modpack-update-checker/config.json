@@ -1,10 +1,10 @@
 {
   "schemaVersion": 9,
-  "currentVersion": "1.0.0",
-  "modpackName": "Modpack Name Goes Here",
-  "modpackAuthor": "My Modpack Studio",
-  "modpackReleaseType": "stable",
-  "updateCheckerId": "https://raw.githubusercontent.com/Modpack-Update-Checker/example-update-checker/main/",
+  "currentVersion": "0.4.0-alpha",
+  "modpackName": "Formula Aeronautics",
+  "modpackAuthor": "tokiponaenjoyer",
+  "modpackReleaseType": "alpha",
+  "updateCheckerId": "https://raw.githubusercontent.com/Syrup-Studios/shenanigans/refs/heads/main/updates/",
   "advanced": {
     "bccEnabled": false,
     "expandButton": false,

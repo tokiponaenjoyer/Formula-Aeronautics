@@ -51,3 +51,24 @@ net.minecraft.client.gui.screens.options.OptionsScreen {
 net.minecraft.client.gui.screens.ShareToLanScreen {
 }
 
+net.minecraft.client.gui.screens.LevelLoadingScreen {
+}
+
+net.minecraft.client.gui.screens.GenericMessageScreen {
+}
+
+net.minecraft.client.gui.screens.ProgressScreen {
+}
+
+net.minecraft.client.gui.screens.ConnectScreen {
+}
+
+net.minecraft.client.gui.screens.ReceivingLevelScreen {
+}
+
+net.minecraft.client.gui.screens.DirectJoinServerScreen {
+}
+
+net.minecraft.client.gui.screens.EditServerScreen {
+}
+

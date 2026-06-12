@@ -1,0 +1,3 @@
+Formula Aeronautics is a modpack designed for building race cars with [Create: Aeronautics](https://modrinth.com/mod/create-aeronautics).
+
+Join the [discord](https://discord.gg/SpMG9EwUgx) to be notified of upcoming updates or sneak peaks into what is coming next. You may also beta test versions after 1.0.0 if you join the discord.

@@ -1,0 +1,48 @@
+#Master switch for the accel/decel ragdoll trigger.
+enabled = true
+
+#When a sublevel impact ragdolls the player.
+[trigger]
+	#Minimum speed (m/s) of a sub-level at the player's position to consider an impact. Matches sable's own damage threshold (3.0).
+	# Default: 3.0
+	# Range: 0.1 ~ 64.0
+	minSubLevelSpeed = 16.0
+	#Minimum horizontal player velocity change over the 5-tick window (m/s) required to confirm the impact was felt.
+	# Default: 5.0
+	# Range: 0.1 ~ 64.0
+	minVelocityDelta = 10.0
+	#Ticks before the same player can be auto-ragdolled again.
+	# Default: 60
+	# Range: 0 ~ 1200
+	cooldownTicks = 60
+	#When true, creative-mode players can also be auto-ragdolled.
+	affectCreative = true
+
+#Launch velocity limits.
+[launch]
+	#Clamp total ragdoll launch speed after trigger detection (m/s). Above ~128 chunks cannot load fast enough to keep up.
+	# Default: 128.0
+	# Range: 1.0 ~ 256.0
+	maxLaunchSpeed = 128.0
+
+#Developer options.
+[debug]
+	#Log trigger details to the server console.
+	debugLogging = true
+
+#Create Big Cannons explosion reactions.
+[cannonExplosions]
+	#When true, Create Big Cannons custom explosions can ragdoll nearby players.
+	enabled = true
+	#Minimum Create Big Cannons explosion power required to trigger a ragdoll.
+	# Default: 1.0
+	# Range: 0.0 ~ 256.0
+	minPower = 1.0
+	#Extra blocks added to the explosion entity radius when searching for nearby players.
+	# Default: 2.0
+	# Range: 0.0 ~ 64.0
+	radiusPadding = 2.0
+	#Launch speed multiplier applied to cannon explosion power before the global max launch speed clamp.
+	# Default: 20.0
+	# Range: 0.0 ~ 128.0
+	launchMultiplier = 20.0

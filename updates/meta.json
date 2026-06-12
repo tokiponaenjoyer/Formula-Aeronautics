@@ -13,7 +13,7 @@
     },
     {
       "id": "0.2.0-alpha",
-      "releasedAt": 1772665200000,
+      "releasedAt": 1772665200001,
       "promotions": {
         "downloads": {
           "generic": "https://github.com/Syrup-Studios/shenanigans/releases/tag/v0.2.0-alpha"
@@ -22,7 +22,16 @@
     },
     {
       "id": "0.3.0-alpha",
-      "releasedAt": 1772665200000,
+      "releasedAt": 1772665200002,
+      "promotions": {
+        "downloads": {
+          "generic": "https://github.com/Syrup-Studios/shenanigans/releases/tag/v0.2.0-alpha"
+        }
+      }
+    },
+    {
+      "id": "0.4.0-alpha",
+      "releasedAt": 1772665200003,
       "promotions": {
         "downloads": {
           "generic": "https://github.com/Syrup-Studios/shenanigans/releases/tag/v0.2.0-alpha"

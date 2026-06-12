@@ -1,0 +1,58 @@
+#Universal Keyboard — Client Settings
+[gamepad]
+	#Allow a connected gamepad to drive Live Controller bindings.
+	#When on, gamepad buttons/triggers/sticks can be bound just like keys.
+	#Uses GLFW's standard gamepad mapping, so any recognized controller works.
+	#Multiple standard gamepads can be used at once; each is shown with its number.
+	#Default: true.
+	enableGamepad = true
+	#Read controllers as raw joysticks instead of mapped gamepads.
+	#Turn this on for HOTAS / flight sticks / racing wheels and other devices that
+	#GLFW does not recognise as standard gamepads. Every connected joystick is then
+	#polled raw, exposing all of its axes, buttons and hat switches by number.
+	#Bindings will show unmapped names (e.g. A3+, B12, H0↑) rather than A/B/RT/LS.
+	#Leave off if you only use standard gamepads. Default: false.
+	enableAdvancedInput = false
+	#How far an analog stick must be pushed before it counts as a directional press.
+	#Range: 0.1–1.0. Default: 0.1.
+	# Default: 0.1
+	# Range: 0.0 ~ 1.0
+	stickThreshold = 0.1
+	#How far a trigger (LT/RT) must be pulled before it counts as a press.
+	#Range: 0.1–1.0. Default: 0.1.
+	# Default: 0.1
+	# Range: 0.0 ~ 1.0
+	triggerThreshold = 0.1
+	#Scale a binding's output by how far the stick/trigger is pushed.
+	#When on, an analog input bound to e.g. 50% power outputs proportionally:
+	#pushing the stick halfway sends 25%, fully sends 50%.
+	#Applies to RS, Thruster Power, Vector and Variable bindings in Hld/Tog modes.
+	#Buttons and Inc/Overdrive bindings are never scaled.
+	#Turn off to make analog inputs behave as plain on/off like buttons.
+	#Default: true.
+	joystickScaling = true
+	#Per-axis maximum stick deflection, recorded by calibration.
+	#Order: [Left X, Left Y, Right X, Right Y].
+	#1.0 means the stick reaches the theoretical edge; a lower value means it
+	#physically falls short, and analog output is rescaled so that the stick's real
+	#maximum still maps to 100%. Fixes sticks that cap below full and asymmetric axes.
+	#Set these with the Calibrate button in the Live Controller. Default: 1.0 each.
+	stickCalibration = [1.0, 1.0, 1.0, 1.0]
+
+#Universal Control Wheel
+[controlwheel]
+	#Key that animates the Control Wheel turning LEFT while in Live Control mode.
+	#Purely cosmetic - this never triggers or interferes with your live control bindings.
+	#Use a GLFW key name such as: a, d, left, right, comma, period. Default: a.
+	controlWheelLeftKey = "a"
+	#Key that animates the Control Wheel turning RIGHT while in Live Control mode.
+	#Purely cosmetic - this never triggers or interferes with your live control bindings.
+	#Use a GLFW key name such as: a, d, left, right, comma, period. Default: d.
+	controlWheelRightKey = "d"
+
+#Universal Keyboard — Notices
+[notices]
+	#Set by the 'Don't show this again' checkbox on the Create: Connected redstone-link
+	#wildcard warning shown in the Redstone Links screen. When true, that popup is
+	#suppressed. Reset to false to see the warning again. Default: false.
+	redstoneWildcardWarningDismissed = false

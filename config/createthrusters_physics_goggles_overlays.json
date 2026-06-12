@@ -1,0 +1,23 @@
+{
+  "PROPULSION": {
+    "x": 508,
+    "y": 279,
+    "width": 132,
+    "height": 57,
+    "userPlaced": true
+  },
+  "FORCE_GIZMO": {
+    "x": 516,
+    "y": 217,
+    "width": 124,
+    "height": 62,
+    "userPlaced": true
+  },
+  "DIAGRAM": {
+    "x": 0,
+    "y": 0,
+    "width": 160,
+    "height": 111,
+    "userPlaced": true
+  }
+}

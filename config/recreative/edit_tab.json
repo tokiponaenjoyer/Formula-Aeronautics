@@ -1,0 +1,18 @@
+[
+    {
+        "action": "modify_tab",
+        "tabs": ["createthrusters:main"],
+        "name": "Create Thrusters",
+        "icon": "createthrusters:variable_transmission"
+    },
+    {
+        "action": "modify_tab",
+        "tabs": ["simulated:main_tab"],
+        "remove_items": [
+            "simulated:red_portable_engine",
+            "tracks:small_track_drive_wheel",
+            "tracks:small_suspension_track",
+            "tracks:track_mount"
+        ]
+    }
+]

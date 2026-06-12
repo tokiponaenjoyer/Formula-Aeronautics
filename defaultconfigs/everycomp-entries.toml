@@ -543,6 +543,9 @@
 			zinc = true
 			brass = true
 
+		[types.metal_type.create_new_age_accumulators]
+			lithium = true
+
 		[types.leaves_type.chipped]
 			apple_acacia = true
 			cherry_acacia = true
@@ -610,3 +613,6 @@
 			orange_spruce = true
 			red_spruce = true
 			white_flower_spruce = true
+
+		[types.dust_type.create_new_age_accumulators]
+			nickel = true
