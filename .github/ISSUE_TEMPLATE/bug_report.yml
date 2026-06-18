@@ -1,0 +1,97 @@
+name: 🐛 Bug Report (Modpack)
+description: File a bug report for the Formula Aeronautics modpack.
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report!
+        Please check the existing issues before creating a new one.
+
+  - type: input
+    id: version
+    attributes:
+      label: Modpack Version
+      description: What version of the modpack are you using?
+      placeholder: e.g. v1.0.0
+    validations:
+      required: true
+
+  - type: input
+    id: mc-version
+    attributes:
+      label: Minecraft Version
+      description: What Minecraft version are you playing on?
+      placeholder: e.g. 1.20.1
+    validations:
+      required: true
+
+  - type: dropdown
+    id: modloader
+    attributes:
+      label: Modloader
+      description: Which modloader are you using?
+      options:
+        - Fabric
+        - Quilt
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: log
+    attributes:
+      label: Crash Report / Logs
+      description: |
+        Please upload your crash log or latest.log to https://mclo.gs or https://pastebin.com and paste the link here.
+        This is required for most bug reports.
+      placeholder: Paste your mclo.gs / pastebin link here.
+    validations:
+      required: false
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to Reproduce
+      description: How can we reproduce this bug?
+      placeholder: |
+        1. Load the modpack
+        2. Place a Create: Aeronautics engine
+        3. ...
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected Behavior
+      description: What should have happened?
+      placeholder: The engine should start and rotate.
+    validations:
+      required: true
+
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual Behavior
+      description: What actually happened?
+      placeholder: The engine exploded immediately.
+    validations:
+      required: true
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots / Videos
+      description: If applicable, add screenshots or video links to help explain the problem.
+      placeholder: Drag and drop images or paste a YouTube/Imgur link here.
+    validations:
+      required: false
+
+  - type: textarea
+    id: other
+    attributes:
+      label: Additional Context
+      description: Any other relevant information (e.g., your system specs, other mods you added manually).
+    validations:
+      required: false

@@ -28,7 +28,9 @@ Sable-Schematics/
 immersive_paintings_cache/
 
 # === User-specified hidden folders ===
-.*/
+.mixin.out/
+.sable/
+.vscode/
 */.index/
 
 # === User-specified files ===
